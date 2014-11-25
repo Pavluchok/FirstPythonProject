@@ -1,0 +1,5996 @@
+<p class="newsgr">
+
+
+    1
+     - <a href="http://4flaga.ru/sounds/a.mp3">
+    a</a> -
+    неопределенный артикль
+  <br>
+
+    2
+     - <a href="http://4flaga.ru/sounds/the.mp3">
+    the</a> -
+    определенный артикль
+  <br>
+
+    3
+     - <a href="http://4flaga.ru/sounds/be.mp3">
+    be</a> -
+    быть
+  <br>
+
+    4
+     - <a href="http://4flaga.ru/sounds/of.mp3">
+    of</a> -
+    предлог родительного падежа
+  <br>
+
+    5
+     - <a href="http://4flaga.ru/sounds/and.mp3">
+    and</a> -
+    и
+  <br>
+
+    6
+     - <a href="http://4flaga.ru/sounds/in.mp3">
+    in</a> -
+    в; через (о времени)
+  <br>
+
+    7
+     - <a href="http://4flaga.ru/sounds/to.mp3">
+    to</a> -
+    к; в
+  <br>
+
+    8
+     - <a href="http://4flaga.ru/sounds/have.mp3">
+    have</a> -
+    иметь
+  <br>
+
+    9
+     - <a href="http://4flaga.ru/sounds/it.mp3">
+    it</a> -
+    это; он, она, оно (для неодуш.сущ.)
+  <br>
+
+    10
+     - <a href="http://4flaga.ru/sounds/for.mp3">
+    for</a> -
+    для; ибо
+  <br>
+
+    11
+     - <a href="http://4flaga.ru/sounds/I.mp3">
+    I</a> -
+    я
+  <br>
+
+    12
+     - <a href="http://4flaga.ru/sounds/that.mp3">
+    that</a> -
+    тот; что
+  <br>
+
+    13
+     - <a href="http://4flaga.ru/sounds/you.mp3">
+    you</a> -
+    ты, вы
+  <br>
+
+    14
+     - <a href="http://4flaga.ru/sounds/he.mp3">
+    he</a> -
+    он
+  <br>
+
+    15
+     - <a href="http://4flaga.ru/sounds/on.mp3">
+    on</a> -
+    на
+  <br>
+
+    16
+     - <a href="http://4flaga.ru/sounds/with.mp3">
+    with</a> -
+    с
+  <br>
+
+    17
+     - <a href="http://4flaga.ru/sounds/do.mp3">
+    do</a> -
+    делать
+  <br>
+
+    18
+     - <a href="http://4flaga.ru/sounds/at.mp3">
+    at</a> -
+    у
+  <br>
+
+    19
+     - <a href="http://4flaga.ru/sounds/by.mp3">
+    by</a> -
+    к; предлог творительного падежа
+  <br>
+
+    20
+     - <a href="http://4flaga.ru/sounds/not.mp3">
+    not</a> -
+    не
+  <br>
+
+    21
+     - <a href="http://4flaga.ru/sounds/this.mp3">
+    this</a> -
+    это
+  <br>
+
+    22
+     - <a href="http://4flaga.ru/sounds/but.mp3">
+    but</a> -
+    но, кроме
+  <br>
+
+    23
+     - <a href="http://4flaga.ru/sounds/from.mp3">
+    from</a> -
+    от
+  <br>
+
+    24
+     - <a href="http://4flaga.ru/sounds/they.mp3">
+    they</a> -
+    они
+  <br>
+
+    25
+     - <a href="http://4flaga.ru/sounds/his.mp3">
+    his</a> -
+    его
+  <br>
+
+    26
+     - <a href="http://4flaga.ru/sounds/she.mp3">
+    she</a> -
+    она
+  <br>
+
+    27
+     - <a href="http://4flaga.ru/sounds/or.mp3">
+    or</a> -
+    или
+  <br>
+
+    28
+     - <a href="http://4flaga.ru/sounds/which.mp3">
+    which</a> -
+    который
+  <br>
+
+    29
+     - <a href="http://4flaga.ru/sounds/as.mp3">
+    as</a> -
+    как; так как
+  <br>
+
+    30
+     - <a href="http://4flaga.ru/sounds/we.mp3">
+    we</a> -
+    мы
+  <br>
+
+    31
+     - <a href="http://4flaga.ru/sounds/say.mp3">
+    say</a> -
+    сказать
+  <br>
+
+    32
+     - <a href="http://4flaga.ru/sounds/will.mp3">
+    will</a> -
+    вспом.глагол буд.вр.; воля
+  <br>
+
+    33
+     - <a href="http://4flaga.ru/sounds/would.mp3">
+    would</a> -
+    бы
+  <br>
+
+    34
+     - <a href="http://4flaga.ru/sounds/can.mp3">
+    can</a> -
+    уметь, мочь
+  <br>
+
+    35
+     - <a href="http://4flaga.ru/sounds/if.mp3">
+    if</a> -
+    если
+  <br>
+
+    36
+     - <a href="http://4flaga.ru/sounds/their.mp3">
+    their</a> -
+    их
+  <br>
+
+    37
+     - <a href="http://4flaga.ru/sounds/go.mp3">
+    go</a> -
+    ходить, идти
+  <br>
+
+    38
+     - <a href="http://4flaga.ru/sounds/what.mp3">
+    what</a> -
+    что
+  <br>
+
+    39
+     - <a href="http://4flaga.ru/sounds/there.mp3">
+    there</a> -
+    там
+  <br>
+
+    40
+     - <a href="http://4flaga.ru/sounds/all.mp3">
+    all</a> -
+    все
+  <br>
+
+    41
+     - <a href="http://4flaga.ru/sounds/get.mp3">
+    get</a> -
+    получать
+  <br>
+
+    42
+     - <a href="http://4flaga.ru/sounds/her.mp3">
+    her</a> -
+    ее
+  <br>
+
+    43
+     - <a href="http://4flaga.ru/sounds/make.mp3">
+    make</a> -
+    делать
+  <br>
+
+    44
+     - <a href="http://4flaga.ru/sounds/who.mp3">
+    who</a> -
+    кто
+  <br>
+
+    45
+     - <a href="http://4flaga.ru/sounds/out.mp3">
+    out</a> -
+    вне
+  <br>
+
+    46
+     - <a href="http://4flaga.ru/sounds/up.mp3">
+    up</a> -
+    вверх
+  <br>
+
+    47
+     - <a href="http://4flaga.ru/sounds/see.mp3">
+    see</a> -
+    видеть
+  <br>
+
+    48
+     - <a href="http://4flaga.ru/sounds/know.mp3">
+    know</a> -
+    знать
+  <br>
+
+    49
+     - <a href="http://4flaga.ru/sounds/time.mp3">
+    time</a> -
+    время; раз
+  <br>
+
+    50
+     - <a href="http://4flaga.ru/sounds/take.mp3">
+    take</a> -
+    брать
+  <br>
+
+    51
+     - <a href="http://4flaga.ru/sounds/them.mp3">
+    them</a> -
+    им
+  <br>
+
+    52
+     - <a href="http://4flaga.ru/sounds/some.mp3">
+    some</a> -
+    несколько, какой-то
+  <br>
+
+    53
+     - <a href="http://4flaga.ru/sounds/could.mp3">
+    could</a> -
+    мог
+  <br>
+
+    54
+     - <a href="http://4flaga.ru/sounds/so.mp3">
+    so</a> -
+    такой, поэтому
+  <br>
+
+    55
+     - <a href="http://4flaga.ru/sounds/him.mp3">
+    him</a> -
+    ему
+  <br>
+
+    56
+     - <a href="http://4flaga.ru/sounds/year.mp3">
+    year</a> -
+    год
+  <br>
+
+    57
+     - <a href="http://4flaga.ru/sounds/into.mp3">
+    into</a> -
+    в
+  <br>
+
+    58
+     - <a href="http://4flaga.ru/sounds/its.mp3">
+    its</a> -
+    его
+  <br>
+
+    59
+     - <a href="http://4flaga.ru/sounds/then.mp3">
+    then</a> -
+    затем
+  <br>
+
+    60
+     - <a href="http://4flaga.ru/sounds/think.mp3">
+    think</a> -
+    думать
+  <br>
+
+    61
+     - <a href="http://4flaga.ru/sounds/my.mp3">
+    my</a> -
+    мой
+  <br>
+
+    62
+     - <a href="http://4flaga.ru/sounds/come.mp3">
+    come</a> -
+    приходить
+  <br>
+
+    63
+     - <a href="http://4flaga.ru/sounds/than.mp3">
+    than</a> -
+    чем
+  <br>
+
+    64
+     - <a href="http://4flaga.ru/sounds/more.mp3">
+    more</a> -
+    больше
+  <br>
+
+    65
+     - <a href="http://4flaga.ru/sounds/about.mp3">
+    about</a> -
+    о; около
+  <br>
+
+    66
+     - <a href="http://4flaga.ru/sounds/now.mp3">
+    now</a> -
+    сейчас
+  <br>
+
+    67
+     - <a href="http://4flaga.ru/sounds/last.mp3">
+    last</a> -
+   прошлый, продолжаться
+  <br>
+
+    68
+     - <a href="http://4flaga.ru/sounds/your.mp3">
+    your</a> -
+    твой, ваш
+  <br>
+
+    69
+     - <a href="http://4flaga.ru/sounds/me.mp3">
+    me</a> -
+    мне
+  <br>
+
+    70
+     - <a href="http://4flaga.ru/sounds/no.mp3">
+    no</a> -
+    нет
+  <br>
+
+    71
+     - <a href="http://4flaga.ru/sounds/other.mp3">
+    other</a> -
+    другой
+  <br>
+
+    72
+     - <a href="http://4flaga.ru/sounds/give.mp3">
+    give</a> -
+    дать
+  <br>
+
+    73
+     - <a href="http://4flaga.ru/sounds/just.mp3">
+    just</a> -
+    только что; справедливый
+  <br>
+
+    74
+     - <a href="http://4flaga.ru/sounds/should.mp3">
+    should</a> -
+    следует
+  <br>
+
+    75
+     - <a href="http://4flaga.ru/sounds/these.mp3">
+    these</a> -
+    эти
+  <br>
+
+    76
+     - <a href="http://4flaga.ru/sounds/people.mp3">
+    people</a> -
+    люди
+  <br>
+
+    77
+     - <a href="http://4flaga.ru/sounds/also.mp3">
+    also</a> -
+    также
+  <br>
+
+    78
+     - <a href="http://4flaga.ru/sounds/well.mp3">
+    well</a> -
+    хорошо
+  <br>
+
+    79
+     - <a href="http://4flaga.ru/sounds/any.mp3">
+    any</a> -
+    любой
+  <br>
+
+    80
+     - <a href="http://4flaga.ru/sounds/only.mp3">
+    only</a> -
+    только; единственный
+  <br>
+
+    81
+     - <a href="http://4flaga.ru/sounds/new.mp3">
+    new</a> -
+    новый
+  <br>
+
+    82
+     - <a href="http://4flaga.ru/sounds/very.mp3">
+    very</a> -
+    очень; тот самый
+  <br>
+
+    83
+     - <a href="http://4flaga.ru/sounds/when.mp3">
+    when</a> -
+    когда (вопросительное слово)
+  <br>
+
+    84
+     - <a href="http://4flaga.ru/sounds/may.mp3">
+    may</a> -
+    мочь
+  <br>
+
+    85
+     - <a href="http://4flaga.ru/sounds/way.mp3">
+    way</a> -
+    путь, способ
+  <br>
+
+    86
+     - <a href="http://4flaga.ru/sounds/look.mp3">
+    look</a> -
+    смотреть, выглядеть; взгляд
+  <br>
+
+    87
+     - <a href="http://4flaga.ru/sounds/like.mp3">
+    like</a> -
+    любить, нравиться; как
+  <br>
+
+    88
+     - <a href="http://4flaga.ru/sounds/use.mp3">
+    use</a> -
+    использовать; применение
+  <br>
+
+    89
+     - <a href="http://4flaga.ru/sounds/such.mp3">
+    such</a> -
+    такой
+  <br>
+
+    90
+     - <a href="http://4flaga.ru/sounds/how.mp3">
+    how</a> -
+    как
+  <br>
+
+    91
+     - <a href="http://4flaga.ru/sounds/because.mp3">
+    because</a> -
+    потому что
+  <br>
+
+    92
+     - <a href="http://4flaga.ru/sounds/good.mp3">
+    good</a> -
+    хороший
+  <br>
+
+    93
+     - <a href="http://4flaga.ru/sounds/find.mp3">
+    find</a> -
+    найти
+  <br>
+
+    94
+     - <a href="http://4flaga.ru/sounds/man.mp3">
+    man</a> -
+    человек, мужчина
+  <br>
+
+    95
+     - <a href="http://4flaga.ru/sounds/our.mp3">
+    our</a> -
+    наш
+  <br>
+
+    96
+     - <a href="http://4flaga.ru/sounds/want.mp3">
+    want</a> -
+    хотеть
+  <br>
+
+    97
+     - <a href="http://4flaga.ru/sounds/day.mp3">
+    day</a> -
+    день
+  <br>
+
+    98
+     - <a href="http://4flaga.ru/sounds/between.mp3">
+    between</a> -
+    между
+  <br>
+
+    99
+     - <a href="http://4flaga.ru/sounds/even.mp3">
+    even</a> -
+    даже
+  <br>
+
+    100
+     - <a href="http://4flaga.ru/sounds/many.mp3">
+    many</a> -
+    много (для исчисляемых)
+  <br>
+
+    101
+     - <a href="http://4flaga.ru/sounds/those.mp3">
+    those</a> -
+    те
+  <br>
+
+    102
+     - <a href="http://4flaga.ru/sounds/after.mp3">
+    after</a> -
+    после
+  <br>
+
+    103
+     - <a href="http://4flaga.ru/sounds/down.mp3">
+    down</a> -
+    внизу
+  <br>
+
+    104
+     - <a href="http://4flaga.ru/sounds/yeah.mp3">
+    yeah</a> -
+    да
+  <br>
+
+    105
+     - <a href="http://4flaga.ru/sounds/thing.mp3">
+    thing</a> -
+    вещь
+  <br>
+
+    106
+     - <a href="http://4flaga.ru/sounds/tell.mp3">
+    tell</a> -
+    сказать (кому-то)
+  <br>
+
+    107
+     - <a href="http://4flaga.ru/sounds/through.mp3">
+    through</a> -
+    сквозь
+  <br>
+
+    108
+     - <a href="http://4flaga.ru/sounds/back.mp3">
+    back</a> -
+    назад; спина
+  <br>
+
+    109
+     - <a href="http://4flaga.ru/sounds/still.mp3">
+    still</a> -
+    все еще; тихий
+  <br>
+
+    110
+     - <a href="http://4flaga.ru/sounds/must.mp3">
+    must</a> -
+    должен
+  <br>
+
+    111
+     - <a href="http://4flaga.ru/sounds/child.mp3">
+    child</a> -
+    ребенок
+  <br>
+
+    112
+     - <a href="http://4flaga.ru/sounds/here.mp3">
+    here</a> -
+    здесь
+  <br>
+
+    113
+     - <a href="http://4flaga.ru/sounds/over.mp3">
+    over</a> -
+    над, выше (предлог); пере-; движение через (наречие)
+  <br>
+
+    114
+     - <a href="http://4flaga.ru/sounds/too.mp3">
+    too</a> -
+    тоже; слишком
+  <br>
+
+    115
+     - <a href="http://4flaga.ru/sounds/put.mp3">
+    put</a> -
+    положить
+  <br>
+
+    116
+     - <a href="http://4flaga.ru/sounds/own.mp3">
+    own</a> -
+    собственный
+  <br>
+
+    117
+     - <a href="http://4flaga.ru/sounds/work.mp3">
+    work</a> -
+    работа, работать
+  <br>
+
+    118
+     - <a href="http://4flaga.ru/sounds/become.mp3">
+    become</a> -
+    становиться
+  <br>
+
+    119
+     - <a href="http://4flaga.ru/sounds/old.mp3">
+    old</a> -
+    старый
+  <br>
+
+    120
+     - <a href="http://4flaga.ru/sounds/government.mp3">
+    government</a> -
+    правительство
+  <br>
+
+    121
+     - <a href="http://4flaga.ru/sounds/mean.mp3">
+    mean</a> -
+    иметь в виду
+  <br>
+
+    122
+     - <a href="http://4flaga.ru/sounds/part.mp3">
+    part</a> -
+    часть
+  <br>
+
+    123
+     - <a href="http://4flaga.ru/sounds/leave.mp3">
+    leave</a> -
+    покинуть
+  <br>
+
+    124
+     - <a href="http://4flaga.ru/sounds/life.mp3">
+    life</a> -
+    жизнь
+  <br>
+
+    125
+     - <a href="http://4flaga.ru/sounds/great.mp3">
+    great</a> -
+    великий, великолепный
+  <br>
+
+    126
+     - <a href="http://4flaga.ru/sounds/where.mp3">
+    where</a> -
+    где
+  <br>
+
+    127
+     - <a href="http://4flaga.ru/sounds/case.mp3">
+    case</a> -
+    случай, коробка
+  <br>
+
+    128
+     - <a href="http://4flaga.ru/sounds/woman.mp3">
+    woman</a> -
+    женщина
+  <br>
+
+    129
+     - <a href="http://4flaga.ru/sounds/seem.mp3">
+    seem</a> -
+    казаться
+  <br>
+
+    130
+     - <a href="http://4flaga.ru/sounds/same.mp3">
+    same</a> -
+    тот же самый
+  <br>
+
+    131
+     - <a href="http://4flaga.ru/sounds/us.mp3">
+    us</a> -
+    нас
+  <br>
+
+    132
+     - <a href="http://4flaga.ru/sounds/need.mp3">
+    need</a> -
+    нужда; нужно
+  <br>
+
+    133
+     - <a href="http://4flaga.ru/sounds/feel.mp3">
+    feel</a> -
+    чувствовать
+  <br>
+
+    134
+     - <a href="http://4flaga.ru/sounds/each.mp3">
+    each</a> -
+    каждый
+  <br>
+
+    135
+     - <a href="http://4flaga.ru/sounds/might.mp3">
+    might</a> -
+    (пр.вр. от may может быть)
+  <br>
+
+    136
+     - <a href="http://4flaga.ru/sounds/much.mp3">
+    much</a> -
+    много (для неисчисл.), очень
+  <br>
+
+    137
+     - <a href="http://4flaga.ru/sounds/ask.mp3">
+    ask</a> -
+    спрашивать, задавать
+  <br>
+
+    138
+     - <a href="http://4flaga.ru/sounds/group.mp3">
+    group</a> -
+    группа
+  <br>
+
+    139
+     - <a href="http://4flaga.ru/sounds/number.mp3">
+    number</a> -
+    число, номер
+  <br>
+
+    140
+     - <a href="http://4flaga.ru/sounds/yes.mp3">
+    yes</a> -
+    да
+  <br>
+
+    141
+     - <a href="http://4flaga.ru/sounds/however.mp3">
+    however</a> -
+    однако
+  <br>
+
+    142
+     - <a href="http://4flaga.ru/sounds/another.mp3">
+    another</a> -
+    другой
+  <br>
+
+    143
+     - <a href="http://4flaga.ru/sounds/again.mp3">
+    again</a> -
+    снова
+  <br>
+
+    144
+     - <a href="http://4flaga.ru/sounds/world.mp3">
+    world</a> -
+    мир
+  <br>
+
+    145
+     - <a href="http://4flaga.ru/sounds/area.mp3">
+    area</a> -
+    территория, площадь
+  <br>
+
+    146
+     - <a href="http://4flaga.ru/sounds/show.mp3">
+    show</a> -
+    шоу, показывать
+  <br>
+
+    147
+     - <a href="http://4flaga.ru/sounds/course.mp3">
+    course</a> -
+    курс
+  <br>
+
+    148
+     - <a href="http://4flaga.ru/sounds/shall.mp3">
+    shall</a> -
+    &quot;вспом.глагол буд.вр.
+  <br>
+
+    149
+     - <a href="http://4flaga.ru/sounds/under.mp3">
+    under</a> -
+    под
+  <br>
+
+    150
+     - <a href="http://4flaga.ru/sounds/problem.mp3">
+    problem</a> -
+    проблема
+  <br>
+
+    151
+     - <a href="http://4flaga.ru/sounds/against.mp3">
+    against</a> -
+    против
+  <br>
+
+    152
+     - <a href="http://4flaga.ru/sounds/never.mp3">
+    never</a> -
+    никогда
+  <br>
+
+    153
+     - <a href="http://4flaga.ru/sounds/most.mp3">
+    most</a> -
+    самый
+  <br>
+
+    154
+     - <a href="http://4flaga.ru/sounds/service.mp3">
+    service</a> -
+    служба
+  <br>
+
+    155
+     - <a href="http://4flaga.ru/sounds/try.mp3">
+    try</a> -
+    стараться
+  <br>
+
+    156
+     - <a href="http://4flaga.ru/sounds/call.mp3">
+    call</a> -
+    звонок; звать, звонить, называться
+  <br>
+
+    157
+     - <a href="http://4flaga.ru/sounds/hand.mp3">
+    hand</a> -
+    рука
+  <br>
+
+    158
+     - <a href="http://4flaga.ru/sounds/party.mp3">
+    party</a> -
+    вечеринка; партия
+  <br>
+
+    159
+     - <a href="http://4flaga.ru/sounds/high.mp3">
+    high</a> -
+    высоко, высокий
+  <br>
+
+    160
+     - <a href="http://4flaga.ru/sounds/something.mp3">
+    something</a> -
+    что-то
+  <br>
+
+    161
+     - <a href="http://4flaga.ru/sounds/school.mp3">
+    school</a> -
+    школа
+  <br>
+
+    162
+     - <a href="http://4flaga.ru/sounds/small.mp3">
+    small</a> -
+    маленький
+  <br>
+
+    163
+     - <a href="http://4flaga.ru/sounds/place.mp3">
+    place</a> -
+    место, размещать
+  <br>
+
+    164
+     - <a href="http://4flaga.ru/sounds/before.mp3">
+    before</a> -
+    до
+  <br>
+
+    165
+     - <a href="http://4flaga.ru/sounds/why.mp3">
+    why</a> -
+    почему
+  <br>
+
+    166
+     - <a href="http://4flaga.ru/sounds/while.mp3">
+    while</a> -
+    в то время как, пока; промежуток времени
+  <br>
+
+    167
+     - <a href="http://4flaga.ru/sounds/away.mp3">
+    away</a> -
+    вне
+  <br>
+
+    168
+     - <a href="http://4flaga.ru/sounds/keep.mp3">
+    keep</a> -
+    хранить, держать, продолжать
+  <br>
+
+    169
+     - <a href="http://4flaga.ru/sounds/point.mp3">
+    point</a> -
+    точка; смысл; указывать
+  <br>
+
+    170
+     - <a href="http://4flaga.ru/sounds/house.mp3">
+    house</a> -
+    дом
+  <br>
+
+    171
+     - <a href="http://4flaga.ru/sounds/different.mp3">
+    different</a> -
+    различный
+  <br>
+
+    172
+     - <a href="http://4flaga.ru/sounds/country.mp3">
+    country</a> -
+    страна; сельская местность
+  <br>
+
+    173
+     - <a href="http://4flaga.ru/sounds/really.mp3">
+    really</a> -
+    в самом деле
+  <br>
+
+    174
+     - <a href="http://4flaga.ru/sounds/provide.mp3">
+    provide</a> -
+    обеспечить
+  <br>
+
+    175
+     - <a href="http://4flaga.ru/sounds/week.mp3">
+    week</a> -
+    неделя
+  <br>
+
+    176
+     - <a href="http://4flaga.ru/sounds/hold.mp3">
+    hold</a> -
+    держать, проводить
+  <br>
+
+    177
+     - <a href="http://4flaga.ru/sounds/large.mp3">
+    large</a> -
+    большой
+  <br>
+
+    178
+     - <a href="http://4flaga.ru/sounds/member.mp3">
+    member</a> -
+    член
+  <br>
+
+    179
+     - <a href="http://4flaga.ru/sounds/off.mp3">
+    off</a> -
+    от
+  <br>
+
+    180
+     - <a href="http://4flaga.ru/sounds/always.mp3">
+    always</a> -
+    всегда
+  <br>
+
+    181
+     - <a href="http://4flaga.ru/sounds/next.mp3">
+    next</a> -
+    следующий
+  <br>
+
+    182
+     - <a href="http://4flaga.ru/sounds/follow.mp3">
+    follow</a> -
+    следовать
+  <br>
+
+    183
+     - <a href="http://4flaga.ru/sounds/without.mp3">
+    without</a> -
+    без
+  <br>
+
+    184
+     - <a href="http://4flaga.ru/sounds/turn.mp3">
+    turn</a> -
+    очередность; поворачивать
+  <br>
+
+    185
+     - <a href="http://4flaga.ru/sounds/end.mp3">
+    end</a> -
+    конец, заканчивать
+  <br>
+
+    186
+     - <a href="http://4flaga.ru/sounds/local.mp3">
+    local</a> -
+    местный
+  <br>
+
+    187
+     - <a href="http://4flaga.ru/sounds/during.mp3">
+    during</a> -
+    в течение
+  <br>
+
+    188
+     - <a href="http://4flaga.ru/sounds/bring.mp3">
+    bring</a> -
+    нести
+  <br>
+
+    189
+     - <a href="http://4flaga.ru/sounds/word.mp3">
+    word</a> -
+    слово
+  <br>
+
+    190
+     - <a href="http://4flaga.ru/sounds/begin.mp3">
+    begin</a> -
+    начинать
+  <br>
+
+    191
+     - <a href="http://4flaga.ru/sounds/although.mp3">
+    although</a> -
+    хотя
+  <br>
+
+    192
+     - <a href="http://4flaga.ru/sounds/example.mp3">
+    example</a> -
+    пример
+  <br>
+
+    193
+     - <a href="http://4flaga.ru/sounds/family.mp3">
+    family</a> -
+    семья
+  <br>
+
+    194
+     - <a href="http://4flaga.ru/sounds/rather.mp3">
+    rather</a> -
+    скорее
+  <br>
+
+    195
+     - <a href="http://4flaga.ru/sounds/fact.mp3">
+    fact</a> -
+    факт
+  <br>
+
+    196
+     - <a href="http://4flaga.ru/sounds/social.mp3">
+    social</a> -
+    общественный
+  <br>
+
+    197
+     - <a href="http://4flaga.ru/sounds/write.mp3">
+    write</a> -
+    писать
+  <br>
+
+    198
+     - <a href="http://4flaga.ru/sounds/state.mp3">
+    state</a> -
+    государство, штат; утверждать
+  <br>
+
+    199
+     - <a href="http://4flaga.ru/sounds/percent.mp3">
+    percent</a> -
+    процент
+  <br>
+
+    200
+     - <a href="http://4flaga.ru/sounds/quite.mp3">
+    quite</a> -
+    довольно
+  <br>
+
+    201
+     - <a href="http://4flaga.ru/sounds/both.mp3">
+    both</a> -
+    оба
+  <br>
+
+    202
+     - <a href="http://4flaga.ru/sounds/start.mp3">
+    start</a> -
+    старт; начинать
+  <br>
+
+    203
+     - <a href="http://4flaga.ru/sounds/run.mp3">
+    run</a> -
+    бег, бежать
+  <br>
+
+    204
+     - <a href="http://4flaga.ru/sounds/long.mp3">
+    long</a> -
+    длинный
+  <br>
+
+    205
+     - <a href="http://4flaga.ru/sounds/right.mp3">
+    right</a> -
+    правый; право
+  <br>
+
+    206
+     - <a href="http://4flaga.ru/sounds/set.mp3">
+    set</a> -
+    набор; установить
+  <br>
+
+    207
+     - <a href="http://4flaga.ru/sounds/help.mp3">
+    help</a> -
+    помогать, помощь
+  <br>
+
+    208
+     - <a href="http://4flaga.ru/sounds/every.mp3">
+    every</a> -
+    каждый
+  <br>
+
+    209
+     - <a href="http://4flaga.ru/sounds/home.mp3">
+    home</a> -
+    дом, домашний
+  <br>
+
+    210
+     - <a href="http://4flaga.ru/sounds/month.mp3">
+    month</a> -
+    месяц
+  <br>
+
+    211
+     - <a href="http://4flaga.ru/sounds/side.mp3">
+    side</a> -
+    сторона
+  <br>
+
+    212
+     - <a href="http://4flaga.ru/sounds/night.mp3">
+    night</a> -
+    ночь
+  <br>
+
+    213
+     - <a href="http://4flaga.ru/sounds/important.mp3">
+    important</a> -
+    важный
+  <br>
+
+    214
+     - <a href="http://4flaga.ru/sounds/eye.mp3">
+    eye</a> -
+    глаз
+  <br>
+
+    215
+     - <a href="http://4flaga.ru/sounds/head.mp3">
+    head</a> -
+    возглавлять; голова
+  <br>
+
+    216
+     - <a href="http://4flaga.ru/sounds/question.mp3">
+    question</a> -
+    вопрос; сомневаться
+  <br>
+
+    217
+     - <a href="http://4flaga.ru/sounds/play.mp3">
+    play</a> -
+    играть, пьеса
+  <br>
+
+    218
+     - <a href="http://4flaga.ru/sounds/power.mp3">
+    power</a> -
+    власть, сила
+  <br>
+
+    219
+     - <a href="http://4flaga.ru/sounds/money.mp3">
+    money</a> -
+    деньги
+  <br>
+
+    220
+     - <a href="http://4flaga.ru/sounds/change.mp3">
+    change</a> -
+    изменение; сдача; менять
+  <br>
+
+    221
+     - <a href="http://4flaga.ru/sounds/move.mp3">
+    move</a> -
+    двигаться
+  <br>
+
+    222
+     - <a href="http://4flaga.ru/sounds/interest.mp3">
+    interest</a> -
+    интерес; процент прибыли
+  <br>
+
+    223
+     - <a href="http://4flaga.ru/sounds/order.mp3">
+    order</a> -
+    приказ; порядок; заказывать
+  <br>
+
+    224
+     - <a href="http://4flaga.ru/sounds/book.mp3">
+    book</a> -
+    книга; заказать
+  <br>
+
+    225
+     - <a href="http://4flaga.ru/sounds/often.mp3">
+    often</a> -
+    часто
+  <br>
+
+    226
+     - <a href="http://4flaga.ru/sounds/young.mp3">
+    young</a> -
+    молодой
+  <br>
+
+    227
+     - <a href="http://4flaga.ru/sounds/national.mp3">
+    national</a> -
+    национальный
+  <br>
+
+    228
+     - <a href="http://4flaga.ru/sounds/pay.mp3">
+    pay</a> -
+    платить
+  <br>
+
+    229
+     - <a href="http://4flaga.ru/sounds/hear.mp3">
+    hear</a> -
+    слышать
+  <br>
+
+    230
+     - <a href="http://4flaga.ru/sounds/room.mp3">
+    room</a> -
+    комната
+  <br>
+
+    231
+     - <a href="http://4flaga.ru/sounds/whether.mp3">
+    whether</a> -
+    ли
+  <br>
+
+    232
+     - <a href="http://4flaga.ru/sounds/water.mp3">
+    water</a> -
+    вода
+  <br>
+
+    233
+     - <a href="http://4flaga.ru/sounds/form.mp3">
+    form</a> -
+    форма; бланк; формировать
+  <br>
+
+    234
+     - <a href="http://4flaga.ru/sounds/car.mp3">
+    car</a> -
+    автомобиль
+  <br>
+
+    235
+     - <a href="http://4flaga.ru/sounds/others.mp3">
+    others</a> -
+    другие
+  <br>
+
+    236
+     - <a href="http://4flaga.ru/sounds/yet.mp3">
+    yet</a> -
+    еще (не); однако
+  <br>
+
+    237
+     - <a href="http://4flaga.ru/sounds/perhaps.mp3">
+    perhaps</a> -
+    возможно
+  <br>
+
+    238
+     - <a href="http://4flaga.ru/sounds/meet.mp3">
+    meet</a> -
+    встретить, познакомиться
+  <br>
+
+    239
+     - <a href="http://4flaga.ru/sounds/till.mp3">
+    till</a> -
+    до
+  <br>
+
+    240
+     - <a href="http://4flaga.ru/sounds/though.mp3">
+    though</a> -
+    хотя
+  <br>
+
+    241
+     - <a href="http://4flaga.ru/sounds/policy.mp3">
+    policy</a> -
+    политика
+  <br>
+
+    242
+     - <a href="http://4flaga.ru/sounds/include.mp3">
+    include</a> -
+    включать (в себя)
+  <br>
+
+    243
+     - <a href="http://4flaga.ru/sounds/believe.mp3">
+    believe</a> -
+    верить
+  <br>
+
+    244
+     - <a href="http://4flaga.ru/sounds/already.mp3">
+    already</a> -
+    уже
+  <br>
+
+    245
+     - <a href="http://4flaga.ru/sounds/possible.mp3">
+    possible</a> -
+    возможный
+  <br>
+
+    246
+     - <a href="http://4flaga.ru/sounds/nothing.mp3">
+    nothing</a> -
+    ничего
+  <br>
+
+    247
+     - <a href="http://4flaga.ru/sounds/line.mp3">
+    line</a> -
+    линия
+  <br>
+
+    248
+     - <a href="http://4flaga.ru/sounds/allow.mp3">
+    allow</a> -
+    позволять
+  <br>
+
+    249
+     - <a href="http://4flaga.ru/sounds/effect.mp3">
+    effect</a> -
+    эффект
+  <br>
+
+    250
+     - <a href="http://4flaga.ru/sounds/big.mp3">
+    big</a> -
+    большой
+  <br>
+
+    251
+     - <a href="http://4flaga.ru/sounds/late.mp3">
+    late</a> -
+    поздний
+  <br>
+
+    252
+     - <a href="http://4flaga.ru/sounds/lead.mp3">
+    lead</a> -
+    руководство; вести
+  <br>
+
+    253
+     - <a href="http://4flaga.ru/sounds/stand.mp3">
+    stand</a> -
+    стоять; стойка
+  <br>
+
+    254
+     - <a href="http://4flaga.ru/sounds/idea.mp3">
+    idea</a> -
+    идея
+  <br>
+
+    255
+     - <a href="http://4flaga.ru/sounds/study.mp3">
+    study</a> -
+    учеба; кабинет; учиться
+  <br>
+
+    256
+     - <a href="http://4flaga.ru/sounds/lot.mp3">
+    lot</a> -
+    много (в выраженииa lot)
+  <br>
+
+    257
+     - <a href="http://4flaga.ru/sounds/live.mp3">
+    live</a> -
+    жить
+  <br>
+
+    258
+     - <a href="http://4flaga.ru/sounds/job.mp3">
+    job</a> -
+    работа
+  <br>
+
+    259
+     - <a href="http://4flaga.ru/sounds/since.mp3">
+    since</a> -
+    с (тех пор как)
+  <br>
+
+    260
+     - <a href="http://4flaga.ru/sounds/name.mp3">
+    name</a> -
+    имя, называть
+  <br>
+
+    261
+     - <a href="http://4flaga.ru/sounds/result.mp3">
+    result</a> -
+    результат
+  <br>
+
+    262
+     - <a href="http://4flaga.ru/sounds/body.mp3">
+    body</a> -
+    тело
+  <br>
+
+    263
+     - <a href="http://4flaga.ru/sounds/happen.mp3">
+    happen</a> -
+    случаться
+  <br>
+
+    264
+     - <a href="http://4flaga.ru/sounds/friend.mp3">
+    friend</a> -
+    друг
+  <br>
+
+    265
+     - <a href="http://4flaga.ru/sounds/least.mp3">
+    least</a> -
+    наименьший
+  <br>
+
+    266
+     - <a href="http://4flaga.ru/sounds/almost.mp3">
+    almost</a> -
+    почти
+  <br>
+
+    267
+     - <a href="http://4flaga.ru/sounds/carry.mp3">
+    carry</a> -
+    нести
+  <br>
+
+    268
+     - <a href="http://4flaga.ru/sounds/authority.mp3">
+    authority</a> -
+    власть
+  <br>
+
+    269
+     - <a href="http://4flaga.ru/sounds/early.mp3">
+    early</a> -
+    рано
+  <br>
+
+    270
+     - <a href="http://4flaga.ru/sounds/view.mp3">
+    view</a> -
+    взгляд; обозревать
+  <br>
+
+    271
+     - <a href="http://4flaga.ru/sounds/himself.mp3">
+    himself</a> -
+    (он) сам
+  <br>
+
+    272
+     - <a href="http://4flaga.ru/sounds/public.mp3">
+    public</a> -
+    общественный; народ, публика
+  <br>
+
+    273
+     - <a href="http://4flaga.ru/sounds/usually.mp3">
+    usually</a> -
+    обычно
+  <br>
+
+    274
+     - <a href="http://4flaga.ru/sounds/together.mp3">
+    together</a> -
+    вместе
+  <br>
+
+    275
+     - <a href="http://4flaga.ru/sounds/talk.mp3">
+    talk</a> -
+    беседа, беседовать
+  <br>
+
+    276
+     - <a href="http://4flaga.ru/sounds/report.mp3">
+    report</a> -
+    доклад; сообщать
+  <br>
+
+    277
+     - <a href="http://4flaga.ru/sounds/face.mp3">
+    face</a> -
+    лицо; стоять лицом к
+  <br>
+
+    278
+     - <a href="http://4flaga.ru/sounds/sit.mp3">
+    sit</a> -
+    сидеть
+  <br>
+
+    279
+     - <a href="http://4flaga.ru/sounds/appear.mp3">
+    appear</a> -
+    появляться
+  <br>
+
+    280
+     - <a href="http://4flaga.ru/sounds/continue.mp3">
+    continue</a> -
+    продолжать
+  <br>
+
+    281
+     - <a href="http://4flaga.ru/sounds/able.mp3">
+    able</a> -
+    способный
+  <br>
+
+    282
+     - <a href="http://4flaga.ru/sounds/political.mp3">
+    political</a> -
+    политический
+  <br>
+
+    283
+     - <a href="http://4flaga.ru/sounds/hour.mp3">
+    hour</a> -
+    час
+  <br>
+
+    284
+     - <a href="http://4flaga.ru/sounds/rate.mp3">
+    rate</a> -
+    пропорция; ставка
+  <br>
+
+    285
+     - <a href="http://4flaga.ru/sounds/law.mp3">
+    law</a> -
+    закон
+  <br>
+
+    286
+     - <a href="http://4flaga.ru/sounds/door.mp3">
+    door</a> -
+    дверь
+  <br>
+
+    287
+     - <a href="http://4flaga.ru/sounds/company.mp3">
+    company</a> -
+    компания
+  <br>
+
+    288
+     - <a href="http://4flaga.ru/sounds/court.mp3">
+    court</a> -
+    суд
+  <br>
+
+    289
+     - <a href="http://4flaga.ru/sounds/fuck.mp3">
+    fuck</a> -
+    трахаться
+  <br>
+
+    290
+     - <a href="http://4flaga.ru/sounds/little.mp3">
+    little</a> -
+    маленький, немного
+  <br>
+
+    291
+     - <a href="http://4flaga.ru/sounds/because-of.mp3">
+    because of</a> -
+    из-за
+  <br>
+
+    292
+     - <a href="http://4flaga.ru/sounds/office.mp3">
+    office</a> -
+    офис
+  <br>
+
+    293
+     - <a href="http://4flaga.ru/sounds/let.mp3">
+    let</a> -
+    позволить
+  <br>
+
+    294
+     - <a href="http://4flaga.ru/sounds/war.mp3">
+    war</a> -
+    война
+  <br>
+
+    295
+     - <a href="http://4flaga.ru/sounds/reason.mp3">
+    reason</a> -
+    причина
+  <br>
+
+    296
+     - <a href="http://4flaga.ru/sounds/less.mp3">
+    less</a> -
+    менее
+  <br>
+
+    297
+     - <a href="http://4flaga.ru/sounds/subject.mp3">
+    subject</a> -
+    предмет
+  <br>
+
+    298
+     - <a href="http://4flaga.ru/sounds/person.mp3">
+    person</a> -
+    лицо; человек
+  <br>
+
+    299
+     - <a href="http://4flaga.ru/sounds/term.mp3">
+    term</a> -
+    термин; срок
+  <br>
+
+    300
+     - <a href="http://4flaga.ru/sounds/full.mp3">
+    full</a> -
+    полный
+  <br>
+
+    301
+     - <a href="http://4flaga.ru/sounds/sort.mp3">
+    sort</a> -
+    сорт, вид; сортировать
+  <br>
+
+    302
+     - <a href="http://4flaga.ru/sounds/require.mp3">
+    require</a> -
+    требовать
+  <br>
+
+    303
+     - <a href="http://4flaga.ru/sounds/suggest.mp3">
+    suggest</a> -
+    предлагать, предполагать
+  <br>
+
+    304
+     - <a href="http://4flaga.ru/sounds/far.mp3">
+    far</a> -
+    далеко
+  <br>
+
+    305
+     - <a href="http://4flaga.ru/sounds/towards.mp3">
+    towards</a> -
+    к
+  <br>
+
+    306
+     - <a href="http://4flaga.ru/sounds/anything.mp3">
+    anything</a> -
+    ничего
+  <br>
+
+    307
+     - <a href="http://4flaga.ru/sounds/period.mp3">
+    period</a> -
+    период
+  <br>
+
+    308
+     - <a href="http://4flaga.ru/sounds/read.mp3">
+    read</a> -
+    читать
+  <br>
+
+    309
+     - <a href="http://4flaga.ru/sounds/society.mp3">
+    society</a> -
+    общество
+  <br>
+
+    310
+     - <a href="http://4flaga.ru/sounds/process.mp3">
+    process</a> -
+    процесс
+  <br>
+
+    311
+     - <a href="http://4flaga.ru/sounds/mother.mp3">
+    mother</a> -
+    мать
+  <br>
+
+    312
+     - <a href="http://4flaga.ru/sounds/offer.mp3">
+    offer</a> -
+    предложение, предлагать
+  <br>
+
+    313
+     - <a href="http://4flaga.ru/sounds/voice.mp3">
+    voice</a> -
+    голос
+  <br>
+
+    314
+     - <a href="http://4flaga.ru/sounds/once.mp3">
+    once</a> -
+    как только; однажды
+  <br>
+
+    315
+     - <a href="http://4flaga.ru/sounds/police.mp3">
+    police</a> -
+    полиция
+  <br>
+
+    316
+     - <a href="http://4flaga.ru/sounds/lose.mp3">
+    lose</a> -
+    терять
+  <br>
+
+    317
+     - <a href="http://4flaga.ru/sounds/add.mp3">
+    add</a> -
+    добавлять
+  <br>
+
+    318
+     - <a href="http://4flaga.ru/sounds/probably.mp3">
+    probably</a> -
+    вероятно
+  <br>
+
+    319
+     - <a href="http://4flaga.ru/sounds/expect.mp3">
+    expect</a> -
+    ожидать
+  <br>
+
+    320
+     - <a href="http://4flaga.ru/sounds/ever.mp3">
+    ever</a> -
+    коогда-нибудь
+  <br>
+
+    321
+     - <a href="http://4flaga.ru/sounds/price.mp3">
+    price</a> -
+    цена
+  <br>
+
+    322
+     - <a href="http://4flaga.ru/sounds/action.mp3">
+    action</a> -
+    действие
+  <br>
+
+    323
+     - <a href="http://4flaga.ru/sounds/issue.mp3">
+    issue</a> -
+    выпуск
+  <br>
+
+    324
+     - <a href="http://4flaga.ru/sounds/remember.mp3">
+    remember</a> -
+    помнить
+  <br>
+
+    325
+     - <a href="http://4flaga.ru/sounds/position.mp3">
+    position</a> -
+    позиция
+  <br>
+
+    326
+     - <a href="http://4flaga.ru/sounds/low.mp3">
+    low</a> -
+    низкий
+  <br>
+
+    327
+     - <a href="http://4flaga.ru/sounds/matter.mp3">
+    matter</a> -
+    дело, вопрос, факты; иметь значение
+  <br>
+
+    328
+     - <a href="http://4flaga.ru/sounds/community.mp3">
+    community</a> -
+    община
+  <br>
+
+    329
+     - <a href="http://4flaga.ru/sounds/remain.mp3">
+    remain</a> -
+    оставаться
+  <br>
+
+    330
+     - <a href="http://4flaga.ru/sounds/figure.mp3">
+    figure</a> -
+    цифра
+  <br>
+
+    331
+     - <a href="http://4flaga.ru/sounds/type.mp3">
+    type</a> -
+    тип
+  <br>
+
+    332
+     - <a href="http://4flaga.ru/sounds/actually.mp3">
+    actually</a> -
+    вообще-то
+  <br>
+
+    333
+     - <a href="http://4flaga.ru/sounds/education.mp3">
+    education</a> -
+    образование
+  <br>
+
+    334
+     - <a href="http://4flaga.ru/sounds/fall.mp3">
+    fall</a> -
+    падать; упадок; осень (ам.)
+  <br>
+
+    335
+     - <a href="http://4flaga.ru/sounds/speak.mp3">
+    speak</a> -
+    говорить
+  <br>
+
+    336
+     - <a href="http://4flaga.ru/sounds/few.mp3">
+    few</a> -
+    мало
+  <br>
+
+    337
+     - <a href="http://4flaga.ru/sounds/today.mp3">
+    today</a> -
+    сегодня
+  <br>
+
+    338
+     - <a href="http://4flaga.ru/sounds/enough.mp3">
+    enough</a> -
+    достаточно
+  <br>
+
+    339
+     - <a href="http://4flaga.ru/sounds/open.mp3">
+    open</a> -
+    открытый, открывать
+  <br>
+
+    340
+     - <a href="http://4flaga.ru/sounds/bad.mp3">
+    bad</a> -
+    плохой
+  <br>
+
+    341
+     - <a href="http://4flaga.ru/sounds/by.mp3">
+    buy</a> -
+    покупать
+  <br>
+
+    342
+     - <a href="http://4flaga.ru/sounds/minute.mp3">
+    minute</a> -
+    минута
+  <br>
+
+    343
+     - <a href="http://4flaga.ru/sounds/moment.mp3">
+    moment</a> -
+    момент
+  <br>
+
+    344
+     - <a href="http://4flaga.ru/sounds/girl.mp3">
+    girl</a> -
+    девочка, девушка
+  <br>
+
+    345
+     - <a href="http://4flaga.ru/sounds/age.mp3">
+    age</a> -
+    возраст
+  <br>
+
+    346
+     - <a href="http://4flaga.ru/sounds/centre.mp3">
+    centre</a> -
+    центр
+  <br>
+
+    347
+     - <a href="http://4flaga.ru/sounds/stop.mp3">
+    stop</a> -
+    остановка; остановить(-ся)
+  <br>
+
+    348
+     - <a href="http://4flaga.ru/sounds/control.mp3">
+    control</a> -
+    контроль, контролировать
+  <br>
+
+    349
+     - <a href="http://4flaga.ru/sounds/send.mp3">
+    send</a> -
+    посылать
+  <br>
+
+    350
+     - <a href="http://4flaga.ru/sounds/health.mp3">
+    health</a> -
+    здоровье
+  <br>
+
+    351
+     - <a href="http://4flaga.ru/sounds/decide.mp3">
+    decide</a> -
+    решать
+  <br>
+
+    352
+     - <a href="http://4flaga.ru/sounds/main.mp3">
+    main</a> -
+    главный
+  <br>
+
+    353
+     - <a href="http://4flaga.ru/sounds/win.mp3">
+    win</a> -
+    победить; победа
+  <br>
+
+    354
+     - <a href="http://4flaga.ru/sounds/wound.mp3">
+    wound</a> -
+    рана; ранить
+  <br>
+
+    355
+     - <a href="http://4flaga.ru/sounds/understand.mp3">
+    understand</a> -
+    понимать
+  <br>
+
+    356
+     - <a href="http://4flaga.ru/sounds/develop.mp3">
+    develop</a> -
+    развивать
+  <br>
+
+    357
+     - <a href="http://4flaga.ru/sounds/class.mp3">
+    class</a> -
+    класс
+  <br>
+
+    358
+     - <a href="http://4flaga.ru/sounds/industry.mp3">
+    industry</a> -
+    промышленность
+  <br>
+
+    359
+     - <a href="http://4flaga.ru/sounds/receive.mp3">
+    receive</a> -
+    получать
+  <br>
+
+    360
+     - <a href="http://4flaga.ru/sounds/several.mp3">
+    several</a> -
+    несколько
+  <br>
+
+    361
+     - <a href="http://4flaga.ru/sounds/return.mp3">
+    return</a> -
+    возвращение, возвращаться
+  <br>
+
+    362
+     - <a href="http://4flaga.ru/sounds/build.mp3">
+    build</a> -
+    строить
+  <br>
+
+    363
+     - <a href="http://4flaga.ru/sounds/spend.mp3">
+    spend</a> -
+    проводить (время)
+  <br>
+
+    364
+     - <a href="http://4flaga.ru/sounds/force.mp3">
+    force</a> -
+    сила, принуждать
+  <br>
+
+    365
+     - <a href="http://4flaga.ru/sounds/condition.mp3">
+    condition</a> -
+    условие
+  <br>
+
+    366
+     - <a href="http://4flaga.ru/sounds/itself.mp3">
+    itself</a> -
+    (он) сам
+  <br>
+
+    367
+     - <a href="http://4flaga.ru/sounds/paper.mp3">
+    paper</a> -
+    бумага; газета
+  <br>
+
+    368
+     - <a href="http://4flaga.ru/sounds/themselves.mp3">
+    themselves</a> -
+    (они) сами
+  <br>
+
+    369
+     - <a href="http://4flaga.ru/sounds/major.mp3">
+    major</a> -
+    главный
+  <br>
+
+    370
+     - <a href="http://4flaga.ru/sounds/describe.mp3">
+    describe</a> -
+    описывать
+  <br>
+
+    371
+     - <a href="http://4flaga.ru/sounds/agree.mp3">
+    agree</a> -
+    соглашаться
+  <br>
+
+    372
+     - <a href="http://4flaga.ru/sounds/economic.mp3">
+    economic</a> -
+    экономический
+  <br>
+
+    373
+     - <a href="http://4flaga.ru/sounds/upon.mp3">
+    upon</a> -
+    на
+  <br>
+
+    374
+     - <a href="http://4flaga.ru/sounds/learn.mp3">
+    learn</a> -
+    учить
+  <br>
+
+    375
+     - <a href="http://4flaga.ru/sounds/general.mp3">
+    general</a> -
+    генерал; общий
+  <br>
+
+    376
+     - <a href="http://4flaga.ru/sounds/century.mp3">
+    century</a> -
+    век
+  <br>
+
+    377
+     - <a href="http://4flaga.ru/sounds/therefore.mp3">
+    therefore</a> -
+    поэтому
+  <br>
+
+    378
+     - <a href="http://4flaga.ru/sounds/father.mp3">
+    father</a> -
+    отец
+  <br>
+
+    379
+     - <a href="http://4flaga.ru/sounds/section.mp3">
+    section</a> -
+    раздел
+  <br>
+
+    380
+     - <a href="http://4flaga.ru/sounds/patient.mp3">
+    patient</a> -
+    терпеливый; пациент
+  <br>
+
+    381
+     - <a href="http://4flaga.ru/sounds/around.mp3">
+    around</a> -
+    вокруг
+  <br>
+
+    382
+     - <a href="http://4flaga.ru/sounds/activity.mp3">
+    activity</a> -
+    мероприятие
+  <br>
+
+    383
+     - <a href="http://4flaga.ru/sounds/road.mp3">
+    road</a> -
+    дорога
+  <br>
+
+    384
+     - <a href="http://4flaga.ru/sounds/table.mp3">
+    table</a> -
+    стол
+  <br>
+
+    385
+     - <a href="http://4flaga.ru/sounds/cow.mp3">
+    cow</a> -
+    корова
+  <br>
+
+    386
+     - <a href="http://4flaga.ru/sounds/including.mp3">
+    including</a> -
+    включающий
+  <br>
+
+    387
+     - <a href="http://4flaga.ru/sounds/church.mp3">
+    church</a> -
+    церковь
+  <br>
+
+    388
+     - <a href="http://4flaga.ru/sounds/reach.mp3">
+    reach</a> -
+    достигать
+  <br>
+
+    389
+     - <a href="http://4flaga.ru/sounds/real.mp3">
+    real</a> -
+    реальный
+  <br>
+
+    390
+     - <a href="http://4flaga.ru/sounds/lie.mp3">
+    lie</a> -
+    лгать
+  <br>
+
+    391
+     - <a href="http://4flaga.ru/sounds/mind.mp3">
+    mind</a> -
+    ум; возражать
+  <br>
+
+    392
+     - <a href="http://4flaga.ru/sounds/likely.mp3">
+    likely</a> -
+    вероятный
+  <br>
+
+    393
+     - <a href="http://4flaga.ru/sounds/among.mp3">
+    among</a> -
+    среди
+  <br>
+
+    394
+     - <a href="http://4flaga.ru/sounds/team.mp3">
+    team</a> -
+    команда
+  <br>
+
+    395
+     - <a href="http://4flaga.ru/sounds/death.mp3">
+    death</a> -
+    смерть
+  <br>
+
+    396
+     - <a href="http://4flaga.ru/sounds/soon.mp3">
+    soon</a> -
+    скоро
+  <br>
+
+    397
+     - <a href="http://4flaga.ru/sounds/act.mp3">
+    act</a> -
+    акт, действие; действовать
+  <br>
+
+    398
+     - <a href="http://4flaga.ru/sounds/sense.mp3">
+    sense</a> -
+    смысл; чувство; чувствовать
+  <br>
+
+    399
+     - <a href="http://4flaga.ru/sounds/staff.mp3">
+    staff</a> -
+    персонал
+  <br>
+
+    400
+     - <a href="http://4flaga.ru/sounds/certain.mp3">
+    certain</a> -
+    определенный
+  <br>
+
+    401
+     - <a href="http://4flaga.ru/sounds/student.mp3">
+    student</a> -
+    студент
+  <br>
+
+    402
+     - <a href="http://4flaga.ru/sounds/half.mp3">
+    half</a> -
+    половина
+  <br>
+
+    403
+     - <a href="http://4flaga.ru/sounds/language.mp3">
+    language</a> -
+    язык
+  <br>
+
+    404
+     - <a href="http://4flaga.ru/sounds/walk.mp3">
+    walk</a> -
+    прогулка; ходить (пешком)
+  <br>
+
+    405
+     - <a href="http://4flaga.ru/sounds/die.mp3">
+    die</a> -
+    умереть
+  <br>
+
+    406
+     - <a href="http://4flaga.ru/sounds/special.mp3">
+    special</a> -
+    особый
+  <br>
+
+    407
+     - <a href="http://4flaga.ru/sounds/difficult.mp3">
+    difficult</a> -
+    трудный
+  <br>
+
+    408
+     - <a href="http://4flaga.ru/sounds/international.mp3">
+    international</a> -
+    международный
+  <br>
+
+    409
+     - <a href="http://4flaga.ru/sounds/department.mp3">
+    department</a> -
+    отделение
+  <br>
+
+    410
+     - <a href="http://4flaga.ru/sounds/management.mp3">
+    management</a> -
+    управление
+  <br>
+
+    411
+     - <a href="http://4flaga.ru/sounds/morning.mp3">
+    morning</a> -
+    утро
+  <br>
+
+    412
+     - <a href="http://4flaga.ru/sounds/draw.mp3">
+    draw</a> -
+    рисовать (карандашом)
+  <br>
+
+    413
+     - <a href="http://4flaga.ru/sounds/hope.mp3">
+    hope</a> -
+    надежда; надеяться
+  <br>
+
+    414
+     - <a href="http://4flaga.ru/sounds/across.mp3">
+    across</a> -
+    через
+  <br>
+
+    415
+     - <a href="http://4flaga.ru/sounds/plan.mp3">
+    plan</a> -
+    план, планировать
+  <br>
+
+    416
+     - <a href="http://4flaga.ru/sounds/product.mp3">
+    product</a> -
+    продукт
+  <br>
+
+    417
+     - <a href="http://4flaga.ru/sounds/city.mp3">
+    city</a> -
+    город
+  <br>
+
+    418
+     - <a href="http://4flaga.ru/sounds/committee.mp3">
+    committee</a> -
+    комитет
+  <br>
+
+    419
+     - <a href="http://4flaga.ru/sounds/ground.mp3">
+    ground</a> -
+    земля
+  <br>
+
+    420
+     - <a href="http://4flaga.ru/sounds/letter.mp3">
+    letter</a> -
+    письмо; буква
+  <br>
+
+    421
+     - <a href="http://4flaga.ru/sounds/create.mp3">
+    create</a> -
+    создавать
+  <br>
+
+    422
+     - <a href="http://4flaga.ru/sounds/evidence.mp3">
+    evidence</a> -
+    свидетельство
+  <br>
+
+    423
+     - <a href="http://4flaga.ru/sounds/foot.mp3">
+    foot</a> -
+    нога
+  <br>
+
+    424
+     - <a href="http://4flaga.ru/sounds/clear.mp3">
+    clear</a> -
+    ясный, очищать
+  <br>
+
+    425
+     - <a href="http://4flaga.ru/sounds/boy.mp3">
+    boy</a> -
+    мальчик
+  <br>
+
+    426
+     - <a href="http://4flaga.ru/sounds/game.mp3">
+    game</a> -
+    игра
+  <br>
+
+    427
+     - <a href="http://4flaga.ru/sounds/food.mp3">
+    food</a> -
+    еда
+  <br>
+
+    428
+     - <a href="http://4flaga.ru/sounds/role.mp3">
+    role</a> -
+    роль
+  <br>
+
+    429
+     - <a href="http://4flaga.ru/sounds/practice.mp3">
+    practice</a> -
+    практика
+  <br>
+
+    430
+     - <a href="http://4flaga.ru/sounds/bank.mp3">
+    bank</a> -
+    банк; берег
+  <br>
+
+    431
+     - <a href="http://4flaga.ru/sounds/else.mp3">
+    else</a> -
+    еще
+  <br>
+
+    432
+     - <a href="http://4flaga.ru/sounds/support.mp3">
+    support</a> -
+    поддержка, поддерживать
+  <br>
+
+    433
+     - <a href="http://4flaga.ru/sounds/sell.mp3">
+    sell</a> -
+    продавать
+  <br>
+
+    434
+     - <a href="http://4flaga.ru/sounds/event.mp3">
+    event</a> -
+    событие
+  <br>
+
+    435
+     - <a href="http://4flaga.ru/sounds/building.mp3">
+    building</a> -
+    здание
+  <br>
+
+    436
+     - <a href="http://4flaga.ru/sounds/behind.mp3">
+    behind</a> -
+    за, сзади
+  <br>
+
+    437
+     - <a href="http://4flaga.ru/sounds/sure.mp3">
+    sure</a> -
+    уверенный
+  <br>
+
+    438
+     - <a href="http://4flaga.ru/sounds/pass.mp3">
+    pass</a> -
+    передавать, проходить
+  <br>
+
+    439
+     - <a href="http://4flaga.ru/sounds/black.mp3">
+    black</a> -
+    черный
+  <br>
+
+    440
+     - <a href="http://4flaga.ru/sounds/stage.mp3">
+    stage</a> -
+    стадия
+  <br>
+
+    441
+     - <a href="http://4flaga.ru/sounds/meeting.mp3">
+    meeting</a> -
+    встреча
+  <br>
+
+    442
+     - <a href="http://4flaga.ru/sounds/hi.mp3">
+    hi</a> -
+    привет
+  <br>
+
+    443
+     - <a href="http://4flaga.ru/sounds/sometimes.mp3">
+    sometimes</a> -
+    иногда
+  <br>
+
+    444
+     - <a href="http://4flaga.ru/sounds/thus.mp3">
+    thus</a> -
+    таким образом
+  <br>
+
+    445
+     - <a href="http://4flaga.ru/sounds/accept.mp3">
+    accept</a> -
+    допускать
+  <br>
+
+    446
+     - <a href="http://4flaga.ru/sounds/available.mp3">
+    available</a> -
+    наличный
+  <br>
+
+    447
+     - <a href="http://4flaga.ru/sounds/town.mp3">
+    town</a> -
+    город
+  <br>
+
+    448
+     - <a href="http://4flaga.ru/sounds/art.mp3">
+    art</a> -
+    искусство
+  <br>
+
+    449
+     - <a href="http://4flaga.ru/sounds/further.mp3">
+    further</a> -
+    дальнейший
+  <br>
+
+    450
+     - <a href="http://4flaga.ru/sounds/club.mp3">
+    club</a> -
+    клуб
+  <br>
+
+    451
+     - <a href="http://4flaga.ru/sounds/arm.mp3">
+    arm</a> -
+    рука
+  <br>
+
+    452
+     - <a href="http://4flaga.ru/sounds/history.mp3">
+    history</a> -
+    история
+  <br>
+
+    453
+     - <a href="http://4flaga.ru/sounds/parent.mp3">
+    parent</a> -
+    родитель
+  <br>
+
+    454
+     - <a href="http://4flaga.ru/sounds/land.mp3">
+    land</a> -
+    земля; приземляться
+  <br>
+
+    455
+     - <a href="http://4flaga.ru/sounds/trade.mp3">
+    trade</a> -
+    торговля, торговать
+  <br>
+
+    456
+     - <a href="http://4flaga.ru/sounds/watch.mp3">
+    watch</a> -
+    часы; наблюдать
+  <br>
+
+    457
+     - <a href="http://4flaga.ru/sounds/white.mp3">
+    white</a> -
+    белый
+  <br>
+
+    458
+     - <a href="http://4flaga.ru/sounds/situation.mp3">
+    situation</a> -
+    ситуация
+  <br>
+
+    459
+     - <a href="http://4flaga.ru/sounds/whose.mp3">
+    whose</a> -
+    чей
+  <br>
+
+    460
+     - <a href="http://4flaga.ru/sounds/ago.mp3">
+    ago</a> -
+    назад
+  <br>
+
+    461
+     - <a href="http://4flaga.ru/sounds/teacher.mp3">
+    teacher</a> -
+    учитель
+  <br>
+
+    462
+     - <a href="http://4flaga.ru/sounds/record.mp3">
+    record</a> -
+    запись; записывать
+  <br>
+
+    463
+     - <a href="http://4flaga.ru/sounds/manager.mp3">
+    manager</a> -
+    управляющий, менеджер
+  <br>
+
+    464
+     - <a href="http://4flaga.ru/sounds/relation.mp3">
+    relation</a> -
+    связь, отношение
+  <br>
+
+    465
+     - <a href="http://4flaga.ru/sounds/common.mp3">
+    common</a> -
+    общий
+  <br>
+
+    466
+     - <a href="http://4flaga.ru/sounds/system.mp3">
+    system</a> -
+    система
+  <br>
+
+    467
+     - <a href="http://4flaga.ru/sounds/strong.mp3">
+    strong</a> -
+    сильный
+  <br>
+
+    468
+     - <a href="http://4flaga.ru/sounds/whole.mp3">
+    whole</a> -
+    целый
+  <br>
+
+    469
+     - <a href="http://4flaga.ru/sounds/field.mp3">
+    field</a> -
+    поле
+  <br>
+
+    470
+     - <a href="http://4flaga.ru/sounds/free.mp3">
+    free</a> -
+    свободный
+  <br>
+
+    471
+     - <a href="http://4flaga.ru/sounds/brake.mp3">
+    break</a> -
+    ломать; перерыв
+  <br>
+
+    472
+     - <a href="http://4flaga.ru/sounds/yesterday.mp3">
+    yesterday</a> -
+    вчера
+  <br>
+
+    473
+     - <a href="http://4flaga.ru/sounds/window.mp3">
+    window</a> -
+    окно
+  <br>
+
+    474
+     - <a href="http://4flaga.ru/sounds/account.mp3">
+    account</a> -
+    счет
+  <br>
+
+    475
+     - <a href="http://4flaga.ru/sounds/explain.mp3">
+    explain</a> -
+    объяснять
+  <br>
+
+    476
+     - <a href="http://4flaga.ru/sounds/stay.mp3">
+    stay</a> -
+    остановиться
+  <br>
+
+    477
+     - <a href="http://4flaga.ru/sounds/wait.mp3">
+    wait</a> -
+    ждать
+  <br>
+
+    478
+     - <a href="http://4flaga.ru/sounds/material.mp3">
+    material</a> -
+    материал
+  <br>
+
+    479
+     - <a href="http://4flaga.ru/sounds/air.mp3">
+    air</a> -
+    воздух
+  <br>
+
+    480
+     - <a href="http://4flaga.ru/sounds/wife.mp3">
+    wife</a> -
+    жена
+  <br>
+
+    481
+     - <a href="http://4flaga.ru/sounds/cover.mp3">
+    cover</a> -
+    крышка, покрывать
+  <br>
+
+    482
+     - <a href="http://4flaga.ru/sounds/apply.mp3">
+    apply</a> -
+    обращаться
+  <br>
+
+    483
+     - <a href="http://4flaga.ru/sounds/love.mp3">
+    love</a> -
+    любить, любовь
+  <br>
+
+    484
+     - <a href="http://4flaga.ru/sounds/project.mp3">
+    project</a> -
+    проект
+  <br>
+
+    485
+     - <a href="http://4flaga.ru/sounds/raise.mp3">
+    raise</a> -
+    поднимать
+  <br>
+
+    486
+     - <a href="http://4flaga.ru/sounds/sale.mp3">
+    sale</a> -
+    продажа
+  <br>
+
+    487
+     - <a href="http://4flaga.ru/sounds/relationship.mp3">
+    relationship</a> -
+    отношение
+  <br>
+
+    488
+     - <a href="http://4flaga.ru/sounds/indeed.mp3">
+    indeed</a> -
+    в самом деле
+  <br>
+
+    489
+     - <a href="http://4flaga.ru/sounds/please.mp3">
+    please</a> -
+    пожалуйста
+  <br>
+
+    490
+     - <a href="http://4flaga.ru/sounds/light.mp3">
+    light</a> -
+    светлый; легкий; свет
+  <br>
+
+    491
+     - <a href="http://4flaga.ru/sounds/claim.mp3">
+    claim</a> -
+    требование, требовать
+  <br>
+
+    492
+     - <a href="http://4flaga.ru/sounds/base.mp3">
+    base</a> -
+    основа, база;базироваться
+  <br>
+
+    493
+     - <a href="http://4flaga.ru/sounds/care.mp3">
+    care</a> -
+    заботиться; забота, осторожность
+  <br>
+
+    494
+     - <a href="http://4flaga.ru/sounds/someone.mp3">
+    someone</a> -
+    кто-то
+  <br>
+
+    495
+     - <a href="http://4flaga.ru/sounds/everything.mp3">
+    everything</a> -
+    всё
+  <br>
+
+    496
+     - <a href="http://4flaga.ru/sounds/certainly.mp3">
+    certainly</a> -
+    конечно
+  <br>
+
+    497
+     - <a href="http://4flaga.ru/sounds/rule.mp3">
+    rule</a> -
+    правило; управлять
+  <br>
+
+    498
+     - <a href="http://4flaga.ru/sounds/cut.mp3">
+    cut</a> -
+    резать
+  <br>
+
+    499
+     - <a href="http://4flaga.ru/sounds/grow.mp3">
+    grow</a> -
+    расти, выращивать
+  <br>
+
+    500
+     - <a href="http://4flaga.ru/sounds/similar.mp3">
+    similar</a> -
+    подобный
+  <br>
+
+    501
+     - <a href="http://4flaga.ru/sounds/story.mp3">
+    story</a> -
+    история, рассказ
+  <br>
+
+    502
+     - <a href="http://4flaga.ru/sounds/quality.mp3">
+    quality</a> -
+    качество
+  <br>
+
+    503
+     - <a href="http://4flaga.ru/sounds/tax.mp3">
+    tax</a> -
+    налог
+  <br>
+
+    504
+     - <a href="http://4flaga.ru/sounds/worker.mp3">
+    worker</a> -
+    рабочий
+  <br>
+
+    505
+     - <a href="http://4flaga.ru/sounds/nature.mp3">
+    nature</a> -
+    природа
+  <br>
+
+    506
+     - <a href="http://4flaga.ru/sounds/structure.mp3">
+    structure</a> -
+    структура
+  <br>
+
+    507
+     - <a href="http://4flaga.ru/sounds/necessary.mp3">
+    necessary</a> -
+    необходимый
+  <br>
+
+    508
+     - <a href="http://4flaga.ru/sounds/pound.mp3">
+    pound</a> -
+    фунт
+  <br>
+
+    509
+     - <a href="http://4flaga.ru/sounds/method.mp3">
+    method</a> -
+    метод
+  <br>
+
+    510
+     - <a href="http://4flaga.ru/sounds/unit.mp3">
+    unit</a> -
+    часть
+  <br>
+
+    511
+     - <a href="http://4flaga.ru/sounds/central.mp3">
+    central</a> -
+    центральный
+  <br>
+
+    512
+     - <a href="http://4flaga.ru/sounds/bed.mp3">
+    bed</a> -
+    кровать
+  <br>
+
+    513
+     - <a href="http://4flaga.ru/sounds/union.mp3">
+    union</a> -
+    союз
+  <br>
+
+    514
+     - <a href="http://4flaga.ru/sounds/movement.mp3">
+    movement</a> -
+    движение
+  <br>
+
+    515
+     - <a href="http://4flaga.ru/sounds/board.mp3">
+    board</a> -
+    доска; совет
+  <br>
+
+    516
+     - <a href="http://4flaga.ru/sounds/true.mp3">
+    true</a> -
+    правдивый
+  <br>
+
+    517
+     - <a href="http://4flaga.ru/sounds/especially.mp3">
+    especially</a> -
+    особенно
+  <br>
+
+    518
+     - <a href="http://4flaga.ru/sounds/short.mp3">
+    short</a> -
+    короткий
+  <br>
+
+    519
+     - <a href="http://4flaga.ru/sounds/personal.mp3">
+    personal</a> -
+    личный
+  <br>
+
+    520
+     - <a href="http://4flaga.ru/sounds/detail.mp3">
+    detail</a> -
+    деталь
+  <br>
+
+    521
+     - <a href="http://4flaga.ru/sounds/model.mp3">
+    model</a> -
+    модель
+  <br>
+
+    522
+     - <a href="http://4flaga.ru/sounds/bear.mp3">
+    bear</a> -
+    медведь;носить; рождать
+  <br>
+
+    523
+     - <a href="http://4flaga.ru/sounds/single.mp3">
+    single</a> -
+    одинокий
+  <br>
+
+    524
+     - <a href="http://4flaga.ru/sounds/join.mp3">
+    join</a> -
+    присоединяться
+  <br>
+
+    525
+     - <a href="http://4flaga.ru/sounds/reduce.mp3">
+    reduce</a> -
+    сокращать
+  <br>
+
+    526
+     - <a href="http://4flaga.ru/sounds/establish.mp3">
+    establish</a> -
+    учреждать
+  <br>
+
+    527
+     - <a href="http://4flaga.ru/sounds/herself.mp3">
+    herself</a> -
+    (она) сама
+  <br>
+
+    528
+     - <a href="http://4flaga.ru/sounds/wall.mp3">
+    wall</a> -
+    стена
+  <br>
+
+    529
+     - <a href="http://4flaga.ru/sounds/easy.mp3">
+    easy</a> -
+    легкий
+  <br>
+
+    530
+     - <a href="http://4flaga.ru/sounds/private.mp3">
+    private</a> -
+    частный
+  <br>
+
+    531
+     - <a href="http://4flaga.ru/sounds/computer.mp3">
+    computer</a> -
+    компьютер
+  <br>
+
+    532
+     - <a href="http://4flaga.ru/sounds/former.mp3">
+    former</a> -
+    бывший
+  <br>
+
+    533
+     - <a href="http://4flaga.ru/sounds/hospital.mp3">
+    hospital</a> -
+    больница
+  <br>
+
+    534
+     - <a href="http://4flaga.ru/sounds/chapter.mp3">
+    chapter</a> -
+    глава
+  <br>
+
+    535
+     - <a href="http://4flaga.ru/sounds/scheme.mp3">
+    scheme</a> -
+    схема, план
+  <br>
+
+    536
+     - <a href="http://4flaga.ru/sounds/by.mp3">
+    bye</a> -
+    пока
+  <br>
+
+    537
+     - <a href="http://4flaga.ru/sounds/consider.mp3">
+    consider</a> -
+    полагать
+  <br>
+
+    538
+     - <a href="http://4flaga.ru/sounds/council.mp3">
+    council</a> -
+    совет
+  <br>
+
+    539
+     - <a href="http://4flaga.ru/sounds/development.mp3">
+    development</a> -
+    развитие
+  <br>
+
+    540
+     - <a href="http://4flaga.ru/sounds/experience.mp3">
+    experience</a> -
+    опыт
+  <br>
+
+    541
+     - <a href="http://4flaga.ru/sounds/information.mp3">
+    information</a> -
+    информация
+  <br>
+
+    542
+     - <a href="http://4flaga.ru/sounds/involve.mp3">
+    involve</a> -
+    вовлекать
+  <br>
+
+    543
+     - <a href="http://4flaga.ru/sounds/theory.mp3">
+    theory</a> -
+    теория
+  <br>
+
+    544
+     - <a href="http://4flaga.ru/sounds/within.mp3">
+    within</a> -
+    в
+  <br>
+
+    545
+     - <a href="http://4flaga.ru/sounds/choose.mp3">
+    choose</a> -
+    выбирать
+  <br>
+
+    546
+     - <a href="http://4flaga.ru/sounds/wish.mp3">
+    wish</a> -
+    желать; желание
+  <br>
+
+    547
+     - <a href="http://4flaga.ru/sounds/property.mp3">
+    property</a> -
+    собственность
+  <br>
+
+    548
+     - <a href="http://4flaga.ru/sounds/achieve.mp3">
+    achieve</a> -
+    достигать
+  <br>
+
+    549
+     - <a href="http://4flaga.ru/sounds/financial.mp3">
+    financial</a> -
+    финансовый
+  <br>
+
+    550
+     - <a href="http://4flaga.ru/sounds/poor.mp3">
+    poor</a> -
+    бедный
+  <br>
+
+    551
+     - <a href="http://4flaga.ru/sounds/blow.mp3">
+    blow</a> -
+    дуть
+  <br>
+
+    552
+     - <a href="http://4flaga.ru/sounds/charge.mp3">
+    charge</a> -
+    ответственность; загружать
+  <br>
+
+    553
+     - <a href="http://4flaga.ru/sounds/director.mp3">
+    director</a> -
+    директор
+  <br>
+
+    554
+     - <a href="http://4flaga.ru/sounds/drive.mp3">
+    drive</a> -
+    водить (машину); катание, езда
+  <br>
+
+    555
+     - <a href="http://4flaga.ru/sounds/approach.mp3">
+    approach</a> -
+    подход, приближаться
+  <br>
+
+    556
+     - <a href="http://4flaga.ru/sounds/chance.mp3">
+    chance</a> -
+    шанс
+  <br>
+
+    557
+     - <a href="http://4flaga.ru/sounds/application.mp3">
+    application</a> -
+    приложение
+  <br>
+
+    558
+     - <a href="http://4flaga.ru/sounds/seek.mp3">
+    seek</a> -
+    искать
+  <br>
+
+    559
+     - <a href="http://4flaga.ru/sounds/cool.mp3">
+    cool</a> -
+    крутой; прохладный
+  <br>
+
+    560
+     - <a href="http://4flaga.ru/sounds/foreign.mp3">
+    foreign</a> -
+    иностранный
+  <br>
+
+    561
+     - <a href="http://4flaga.ru/sounds/along.mp3">
+    along</a> -
+    вдоль
+  <br>
+
+    562
+     - <a href="http://4flaga.ru/sounds/top.mp3">
+    top</a> -
+    верхний, верх
+  <br>
+
+    563
+     - <a href="http://4flaga.ru/sounds/amount.mp3">
+    amount</a> -
+    количество
+  <br>
+
+    564
+     - <a href="http://4flaga.ru/sounds/son.mp3">
+    son</a> -
+    сын
+  <br>
+
+    565
+     - <a href="http://4flaga.ru/sounds/operation.mp3">
+    operation</a> -
+    операция
+  <br>
+
+    566
+     - <a href="http://4flaga.ru/sounds/fail.mp3">
+    fail</a> -
+    потерпеть неудачу
+  <br>
+
+    567
+     - <a href="http://4flaga.ru/sounds/human.mp3">
+    human</a> -
+    человеческий,человек
+  <br>
+
+    568
+     - <a href="http://4flaga.ru/sounds/opportunity.mp3">
+    opportunity</a> -
+    возможность
+  <br>
+
+    569
+     - <a href="http://4flaga.ru/sounds/simple.mp3">
+    simple</a> -
+    простой
+  <br>
+
+    570
+     - <a href="http://4flaga.ru/sounds/leader.mp3">
+    leader</a> -
+    лидер
+  <br>
+
+    571
+     - <a href="http://4flaga.ru/sounds/level.mp3">
+    level</a> -
+    уровень
+  <br>
+
+    572
+     - <a href="http://4flaga.ru/sounds/production.mp3">
+    production</a> -
+    продукция
+  <br>
+
+    573
+     - <a href="http://4flaga.ru/sounds/value.mp3">
+    value</a> -
+    стоимость
+  <br>
+
+    574
+     - <a href="http://4flaga.ru/sounds/firm.mp3">
+    firm</a> -
+    крепкий; фирма
+  <br>
+
+    575
+     - <a href="http://4flaga.ru/sounds/picture.mp3">
+    picture</a> -
+    картина
+  <br>
+
+    576
+     - <a href="http://4flaga.ru/sounds/source.mp3">
+    source</a> -
+    источник
+  <br>
+
+    577
+     - <a href="http://4flaga.ru/sounds/security.mp3">
+    security</a> -
+    безопасность
+  <br>
+
+    578
+     - <a href="http://4flaga.ru/sounds/serve.mp3">
+    serve</a> -
+    служить
+  <br>
+
+    579
+     - <a href="http://4flaga.ru/sounds/according.mp3">
+    according</a> -
+    соответствие
+  <br>
+
+    580
+     - <a href="http://4flaga.ru/sounds/business.mp3">
+    business</a> -
+    дело
+  <br>
+
+    581
+     - <a href="http://4flaga.ru/sounds/decision.mp3">
+    decision</a> -
+    решение
+  <br>
+
+    582
+     - <a href="http://4flaga.ru/sounds/contract.mp3">
+    contract</a> -
+    контакт
+  <br>
+
+    583
+     - <a href="http://4flaga.ru/sounds/wide.mp3">
+    wide</a> -
+    широкий
+  <br>
+
+    584
+     - <a href="http://4flaga.ru/sounds/agreement.mp3">
+    agreement</a> -
+    соглашение
+  <br>
+
+    585
+     - <a href="http://4flaga.ru/sounds/kill.mp3">
+    kill</a> -
+    убивать
+  <br>
+
+    586
+     - <a href="http://4flaga.ru/sounds/site.mp3">
+    site</a> -
+    место
+  <br>
+
+    587
+     - <a href="http://4flaga.ru/sounds/either.mp3">
+    either</a> -
+    один из двух; тоже (не)
+  <br>
+
+    588
+     - <a href="http://4flaga.ru/sounds/various.mp3">
+    various</a> -
+    разнообразный
+  <br>
+
+    589
+     - <a href="http://4flaga.ru/sounds/screw.mp3">
+    screw</a> -
+    закручивать
+  <br>
+
+    590
+     - <a href="http://4flaga.ru/sounds/test.mp3">
+    test</a> -
+    тест; проверять
+  <br>
+
+    591
+     - <a href="http://4flaga.ru/sounds/eat.mp3">
+    eat</a> -
+    кушать
+  <br>
+
+    592
+     - <a href="http://4flaga.ru/sounds/close.mp3">
+    close</a> -
+    близкий;закрывать
+  <br>
+
+    593
+     - <a href="http://4flaga.ru/sounds/represent.mp3">
+    represent</a> -
+    представлять
+  <br>
+
+    594
+     - <a href="http://4flaga.ru/sounds/colour.mp3">
+    colour</a> -
+    цвет
+  <br>
+
+    595
+     - <a href="http://4flaga.ru/sounds/shop.mp3">
+    shop</a> -
+    магазин
+  <br>
+
+    596
+     - <a href="http://4flaga.ru/sounds/benefit.mp3">
+    benefit</a> -
+    выгода
+  <br>
+
+    597
+     - <a href="http://4flaga.ru/sounds/animal.mp3">
+    animal</a> -
+    животное
+  <br>
+
+    598
+     - <a href="http://4flaga.ru/sounds/heart.mp3">
+    heart</a> -
+    сердце
+  <br>
+
+    599
+     - <a href="http://4flaga.ru/sounds/election.mp3">
+    election</a> -
+    выборы
+  <br>
+
+    600
+     - <a href="http://4flaga.ru/sounds/purpose.mp3">
+    purpose</a> -
+    цель
+  <br>
+
+    601
+     - <a href="http://4flaga.ru/sounds/due.mp3">
+    due</a> -
+    обязанный
+  <br>
+
+    602
+     - <a href="http://4flaga.ru/sounds/secretary.mp3">
+    secretary</a> -
+    секретарь
+  <br>
+
+    603
+     - <a href="http://4flaga.ru/sounds/rise.mp3">
+    rise</a> -
+    восход; подниматься
+  <br>
+
+    604
+     - <a href="http://4flaga.ru/sounds/date.mp3">
+    date</a> -
+    дата, датировать
+  <br>
+
+    605
+     - <a href="http://4flaga.ru/sounds/hard.mp3">
+    hard</a> -
+    упорно; тяжелый, упорный
+  <br>
+
+    606
+     - <a href="http://4flaga.ru/sounds/music.mp3">
+    music</a> -
+    музыка
+  <br>
+
+    607
+     - <a href="http://4flaga.ru/sounds/hair.mp3">
+    hair</a> -
+    волосы
+  <br>
+
+    608
+     - <a href="http://4flaga.ru/sounds/prepare.mp3">
+    prepare</a> -
+    приготовить
+  <br>
+
+    609
+     - <a href="http://4flaga.ru/sounds/anyone.mp3">
+    anyone</a> -
+    кто-нибудь
+  <br>
+
+    610
+     - <a href="http://4flaga.ru/sounds/pattern.mp3">
+    pattern</a> -
+    модель
+  <br>
+
+    611
+     - <a href="http://4flaga.ru/sounds/manage.mp3">
+    manage</a> -
+    управлять
+  <br>
+
+    612
+     - <a href="http://4flaga.ru/sounds/piece.mp3">
+    piece</a> -
+    кусок
+  <br>
+
+    613
+     - <a href="http://4flaga.ru/sounds/discuss.mp3">
+    discuss</a> -
+    обсуждать
+  <br>
+
+    614
+     - <a href="http://4flaga.ru/sounds/prove.mp3">
+    prove</a> -
+    даказывать
+  <br>
+
+    615
+     - <a href="http://4flaga.ru/sounds/front.mp3">
+    front</a> -
+    передняя часть, передний
+  <br>
+
+    616
+     - <a href="http://4flaga.ru/sounds/evening.mp3">
+    evening</a> -
+    вечер
+  <br>
+
+    617
+     - <a href="http://4flaga.ru/sounds/royal.mp3">
+    royal</a> -
+    королевский
+  <br>
+
+    618
+     - <a href="http://4flaga.ru/sounds/tree.mp3">
+    tree</a> -
+    дерево
+  <br>
+
+    619
+     - <a href="http://4flaga.ru/sounds/population.mp3">
+    population</a> -
+    население
+  <br>
+
+    620
+     - <a href="http://4flaga.ru/sounds/fine.mp3">
+    fine</a> -
+    прекрасный
+  <br>
+
+    621
+     - <a href="http://4flaga.ru/sounds/plant.mp3">
+    plant</a> -
+    растение; завод; сажать
+  <br>
+
+    622
+     - <a href="http://4flaga.ru/sounds/pressure.mp3">
+    pressure</a> -
+    давление
+  <br>
+
+    623
+     - <a href="http://4flaga.ru/sounds/response.mp3">
+    response</a> -
+    ответ
+  <br>
+
+    624
+     - <a href="http://4flaga.ru/sounds/catch.mp3">
+    catch</a> -
+    хватать
+  <br>
+
+    625
+     - <a href="http://4flaga.ru/sounds/street.mp3">
+    street</a> -
+    улица
+  <br>
+
+    626
+     - <a href="http://4flaga.ru/sounds/knowledge.mp3">
+    knowledge</a> -
+    знание
+  <br>
+
+    627
+     - <a href="http://4flaga.ru/sounds/despite.mp3">
+    despite</a> -
+    несмотря на
+  <br>
+
+    628
+     - <a href="http://4flaga.ru/sounds/design.mp3">
+    design</a> -
+    дизайн, разрабатывать
+  <br>
+
+    629
+     - <a href="http://4flaga.ru/sounds/kind.mp3">
+    kind</a> -
+    вид; тип; добрый
+  <br>
+
+    630
+     - <a href="http://4flaga.ru/sounds/page.mp3">
+    page</a> -
+    страница
+  <br>
+
+    631
+     - <a href="http://4flaga.ru/sounds/enjoy.mp3">
+    enjoy</a> -
+    наслаждаться
+  <br>
+
+    632
+     - <a href="http://4flaga.ru/sounds/individual.mp3">
+    individual</a> -
+    личный;частное лицо
+  <br>
+
+    633
+     - <a href="http://4flaga.ru/sounds/rest.mp3">
+    rest</a> -
+    остаток; отдых; отдыхать
+  <br>
+
+    634
+     - <a href="http://4flaga.ru/sounds/instead.mp3">
+    instead</a> -
+    вместо
+  <br>
+
+    635
+     - <a href="http://4flaga.ru/sounds/wear.mp3">
+    wear</a> -
+    носить
+  <br>
+
+    636
+     - <a href="http://4flaga.ru/sounds/basis.mp3">
+    basis</a> -
+    базис
+  <br>
+
+    637
+     - <a href="http://4flaga.ru/sounds/size.mp3">
+    size</a> -
+    размер
+  <br>
+
+    638
+     - <a href="http://4flaga.ru/sounds/fire.mp3">
+    fire</a> -
+    огонь, пожар; поджигать
+  <br>
+
+    639
+     - <a href="http://4flaga.ru/sounds/series.mp3">
+    series</a> -
+    ряд, серия
+  <br>
+
+    640
+     - <a href="http://4flaga.ru/sounds/success.mp3">
+    success</a> -
+    успех
+  <br>
+
+    641
+     - <a href="http://4flaga.ru/sounds/natural.mp3">
+    natural</a> -
+    естественный
+  <br>
+
+    642
+     - <a href="http://4flaga.ru/sounds/wrong.mp3">
+    wrong</a> -
+    неправильный
+  <br>
+
+    643
+     - <a href="http://4flaga.ru/sounds/near.mp3">
+    near</a> -
+    около
+  <br>
+
+    644
+     - <a href="http://4flaga.ru/sounds/round.mp3">
+    round</a> -
+    вокруг; круглый; круг
+  <br>
+
+    645
+     - <a href="http://4flaga.ru/sounds/thought.mp3">
+    thought</a> -
+    мысль
+  <br>
+
+    646
+     - <a href="http://4flaga.ru/sounds/list.mp3">
+    list</a> -
+    список
+  <br>
+
+    647
+     - <a href="http://4flaga.ru/sounds/argue.mp3">
+    argue</a> -
+    спорить
+  <br>
+
+    648
+     - <a href="http://4flaga.ru/sounds/final.mp3">
+    final</a> -
+    окончательный
+  <br>
+
+    649
+     - <a href="http://4flaga.ru/sounds/future.mp3">
+    future</a> -
+    будущее
+  <br>
+
+    650
+     - <a href="http://4flaga.ru/sounds/introduce.mp3">
+    introduce</a> -
+    знакомить
+  <br>
+
+    651
+     - <a href="http://4flaga.ru/sounds/enter.mp3">
+    enter</a> -
+    входить
+  <br>
+
+    652
+     - <a href="http://4flaga.ru/sounds/space.mp3">
+    space</a> -
+    космос; место
+  <br>
+
+    653
+     - <a href="http://4flaga.ru/sounds/arrive.mp3">
+    arrive</a> -
+    прибывать
+  <br>
+
+    654
+     - <a href="http://4flaga.ru/sounds/ensure.mp3">
+    ensure</a> -
+    обеспечивать
+  <br>
+
+    655
+     - <a href="http://4flaga.ru/sounds/statement.mp3">
+    statement</a> -
+    утверждение
+  <br>
+
+    656
+     - <a href="http://4flaga.ru/sounds/balcony.mp3">
+    balcony</a> -
+    балкон
+  <br>
+
+    657
+     - <a href="http://4flaga.ru/sounds/attention.mp3">
+    attention</a> -
+    внимание
+  <br>
+
+    658
+     - <a href="http://4flaga.ru/sounds/principle.mp3">
+    principle</a> -
+    принцип
+  <br>
+
+    659
+     - <a href="http://4flaga.ru/sounds/pull.mp3">
+    pull</a> -
+    тянуть
+  <br>
+
+    660
+     - <a href="http://4flaga.ru/sounds/doctor.mp3">
+    doctor</a> -
+    доктор
+  <br>
+
+    661
+     - <a href="http://4flaga.ru/sounds/choice.mp3">
+    choice</a> -
+    выбор
+  <br>
+
+    662
+     - <a href="http://4flaga.ru/sounds/refer.mp3">
+    refer</a> -
+    ссылаться
+  <br>
+
+    663
+     - <a href="http://4flaga.ru/sounds/feature.mp3">
+    feature</a> -
+    особенность, функция
+  <br>
+
+    664
+     - <a href="http://4flaga.ru/sounds/couple.mp3">
+    couple</a> -
+    пара
+  <br>
+
+    665
+     - <a href="http://4flaga.ru/sounds/step.mp3">
+    step</a> -
+    шаг; шагать
+  <br>
+
+    666
+     - <a href="http://4flaga.ru/sounds/following.mp3">
+    following</a> -
+    следующий
+  <br>
+
+    667
+     - <a href="http://4flaga.ru/sounds/thank.mp3">
+    thank</a> -
+    благодарить
+  <br>
+
+    668
+     - <a href="http://4flaga.ru/sounds/machine.mp3">
+    machine</a> -
+    машина
+  <br>
+
+    669
+     - <a href="http://4flaga.ru/sounds/income.mp3">
+    income</a> -
+    доход
+  <br>
+
+    670
+     - <a href="http://4flaga.ru/sounds/training.mp3">
+    training</a> -
+    тренировка
+  <br>
+
+    671
+     - <a href="http://4flaga.ru/sounds/present.mp3">
+    present</a> -
+    подарок; дарить; настоящий
+  <br>
+
+    672
+     - <a href="http://4flaga.ru/sounds/association.mp3">
+    association</a> -
+    ассоциация
+  <br>
+
+    673
+     - <a href="http://4flaga.ru/sounds/film.mp3">
+    film</a> -
+    фильм; пленка
+  <br>
+
+    674
+     - <a href="http://4flaga.ru/sounds/difference.mp3">
+    difference</a> -
+    различие
+  <br>
+
+    675
+     - <a href="http://4flaga.ru/sounds/fucking.mp3">
+    fucking</a> -
+    проклятый
+  <br>
+
+    676
+     - <a href="http://4flaga.ru/sounds/region.mp3">
+    region</a> -
+    регион
+  <br>
+
+    677
+     - <a href="http://4flaga.ru/sounds/effort.mp3">
+    effort</a> -
+    усилие
+  <br>
+
+    678
+     - <a href="http://4flaga.ru/sounds/player.mp3">
+    player</a> -
+    игрок
+  <br>
+
+    679
+     - <a href="http://4flaga.ru/sounds/everyone.mp3">
+    everyone</a> -
+    каждый
+  <br>
+
+    680
+     - <a href="http://4flaga.ru/sounds/village.mp3">
+    village</a> -
+    деревня
+  <br>
+
+    681
+     - <a href="http://4flaga.ru/sounds/organisation.mp3">
+    organisation</a> -
+    организация
+  <br>
+
+    682
+     - <a href="http://4flaga.ru/sounds/whatever.mp3">
+    whatever</a> -
+    что бы ни было
+  <br>
+
+    683
+     - <a href="http://4flaga.ru/sounds/news.mp3">
+    news</a> -
+    новости
+  <br>
+
+    684
+     - <a href="http://4flaga.ru/sounds/nice.mp3">
+    nice</a> -
+    замечательный
+  <br>
+
+    685
+     - <a href="http://4flaga.ru/sounds/modern.mp3">
+    modern</a> -
+    современный
+  <br>
+
+    686
+     - <a href="http://4flaga.ru/sounds/cell.mp3">
+    cell</a> -
+    ячейка; камера
+  <br>
+
+    687
+     - <a href="http://4flaga.ru/sounds/current.mp3">
+    current</a> -
+    текущий
+  <br>
+
+    688
+     - <a href="http://4flaga.ru/sounds/legal.mp3">
+    legal</a> -
+    законный
+  <br>
+
+    689
+     - <a href="http://4flaga.ru/sounds/energy.mp3">
+    energy</a> -
+    энергия
+  <br>
+
+    690
+     - <a href="http://4flaga.ru/sounds/finally.mp3">
+    finally</a> -
+    окончательно
+  <br>
+
+    691
+     - <a href="http://4flaga.ru/sounds/degree.mp3">
+    degree</a> -
+    степень
+  <br>
+
+    692
+     - <a href="http://4flaga.ru/sounds/mile.mp3">
+    mile</a> -
+    миля
+  <br>
+
+    693
+     - <a href="http://4flaga.ru/sounds/means.mp3">
+    means</a> -
+    средство
+  <br>
+
+    694
+     - <a href="http://4flaga.ru/sounds/whom.mp3">
+    whom</a> -
+    кем
+  <br>
+
+    695
+     - <a href="http://4flaga.ru/sounds/treatment.mp3">
+    treatment</a> -
+    лечение
+  <br>
+
+    696
+     - <a href="http://4flaga.ru/sounds/sound.mp3">
+    sound</a> -
+    звук, звучать
+  <br>
+
+    697
+     - <a href="http://4flaga.ru/sounds/above.mp3">
+    above</a> -
+    над
+  <br>
+
+    698
+     - <a href="http://4flaga.ru/sounds/task.mp3">
+    task</a> -
+    задание
+  <br>
+
+    699
+     - <a href="http://4flaga.ru/sounds/red.mp3">
+    red</a> -
+    красный
+  <br>
+
+    700
+     - <a href="http://4flaga.ru/sounds/happy.mp3">
+    happy</a> -
+    счастливый
+  <br>
+
+    701
+     - <a href="http://4flaga.ru/sounds/behaviour.mp3">
+    behaviour</a> -
+    поведение
+  <br>
+
+    702
+     - <a href="http://4flaga.ru/sounds/identify.mp3">
+    identify</a> -
+    распознавать
+  <br>
+
+    703
+     - <a href="http://4flaga.ru/sounds/resource.mp3">
+    resource</a> -
+    ресурс; источник
+  <br>
+
+    704
+     - <a href="http://4flaga.ru/sounds/defence.mp3">
+    defence</a> -
+    защита
+  <br>
+
+    705
+     - <a href="http://4flaga.ru/sounds/garden.mp3">
+    garden</a> -
+    сад
+  <br>
+
+    706
+     - <a href="http://4flaga.ru/sounds/floor.mp3">
+    floor</a> -
+    пол; этаж
+  <br>
+
+    707
+     - <a href="http://4flaga.ru/sounds/technology.mp3">
+    technology</a> -
+    технология
+  <br>
+
+    708
+     - <a href="http://4flaga.ru/sounds/style.mp3">
+    style</a> -
+    стиль
+  <br>
+
+    709
+     - <a href="http://4flaga.ru/sounds/feeling.mp3">
+    feeling</a> -
+    чувство
+  <br>
+
+    710
+     - <a href="http://4flaga.ru/sounds/science.mp3">
+    science</a> -
+    наука
+  <br>
+
+    711
+     - <a href="http://4flaga.ru/sounds/relate.mp3">
+    relate</a> -
+    быть родственным
+  <br>
+
+    712
+     - <a href="http://4flaga.ru/sounds/doubt.mp3">
+    doubt</a> -
+    сомнение, сомневаться
+  <br>
+
+    713
+     - <a href="http://4flaga.ru/sounds/ok.mp3">
+    ok</a> -
+    хорошо
+  <br>
+
+    714
+     - <a href="http://4flaga.ru/sounds/produce.mp3">
+    produce</a> -
+    производить
+  <br>
+
+    715
+     - <a href="http://4flaga.ru/sounds/horse.mp3">
+    horse</a> -
+    лошадь
+  <br>
+
+    716
+     - <a href="http://4flaga.ru/sounds/answer.mp3">
+    answer</a> -
+    ответ
+  <br>
+
+    717
+     - <a href="http://4flaga.ru/sounds/compare.mp3">
+    compare</a> -
+    сравнить
+  <br>
+
+    718
+     - <a href="http://4flaga.ru/sounds/suffer.mp3">
+    suffer</a> -
+    страдать
+  <br>
+
+    719
+     - <a href="http://4flaga.ru/sounds/forward.mp3">
+    forward</a> -
+    вперед
+  <br>
+
+    720
+     - <a href="http://4flaga.ru/sounds/announce.mp3">
+    announce</a> -
+    объявлять
+  <br>
+
+    721
+     - <a href="http://4flaga.ru/sounds/user.mp3">
+    user</a> -
+    пользователь
+  <br>
+
+    722
+     - <a href="http://4flaga.ru/sounds/character.mp3">
+    character</a> -
+    герой
+  <br>
+
+    723
+     - <a href="http://4flaga.ru/sounds/risk.mp3">
+    risk</a> -
+    риск; рисковать
+  <br>
+
+    724
+     - <a href="http://4flaga.ru/sounds/normal.mp3">
+    normal</a> -
+    обычный
+  <br>
+
+    725
+     - <a href="http://4flaga.ru/sounds/myself.mp3">
+    myself</a> -
+    (я) сам
+  <br>
+
+    726
+     - <a href="http://4flaga.ru/sounds/dog.mp3">
+    dog</a> -
+    собака
+  <br>
+
+    727
+     - <a href="http://4flaga.ru/sounds/obtain.mp3">
+    obtain</a> -
+    приобретать
+  <br>
+
+    728
+     - <a href="http://4flaga.ru/sounds/quickly.mp3">
+    quickly</a> -
+    быстро
+  <br>
+
+    729
+     - <a href="http://4flaga.ru/sounds/army.mp3">
+    army</a> -
+    армия
+  <br>
+
+    730
+     - <a href="http://4flaga.ru/sounds/forget.mp3">
+    forget</a> -
+    забывать
+  <br>
+
+    731
+     - <a href="http://4flaga.ru/sounds/ill.mp3">
+    ill</a> -
+    больной
+  <br>
+
+    732
+     - <a href="http://4flaga.ru/sounds/station.mp3">
+    station</a> -
+    станция, участок
+  <br>
+
+    733
+     - <a href="http://4flaga.ru/sounds/glass.mp3">
+    glass</a> -
+    стекло; стакан
+  <br>
+
+    734
+     - <a href="http://4flaga.ru/sounds/cup.mp3">
+    cup</a> -
+    кружка
+  <br>
+
+    735
+     - <a href="http://4flaga.ru/sounds/previous.mp3">
+    previous</a> -
+    предыдущий
+  <br>
+
+    736
+     - <a href="http://4flaga.ru/sounds/husband.mp3">
+    husband</a> -
+    муж
+  <br>
+
+    737
+     - <a href="http://4flaga.ru/sounds/recently.mp3">
+    recently</a> -
+    недавно
+  <br>
+
+    738
+     - <a href="http://4flaga.ru/sounds/publish.mp3">
+    publish</a> -
+    публиковать
+  <br>
+
+    739
+     - <a href="http://4flaga.ru/sounds/serious.mp3">
+    serious</a> -
+    серьезный
+  <br>
+
+    740
+     - <a href="http://4flaga.ru/sounds/anyway.mp3">
+    anyway</a> -
+    в любом случае
+  <br>
+
+    741
+     - <a href="http://4flaga.ru/sounds/visit.mp3">
+    visit</a> -
+    приходить в гости
+  <br>
+
+    742
+     - <a href="http://4flaga.ru/sounds/capital.mp3">
+    capital</a> -
+    столица
+  <br>
+
+    743
+     - <a href="http://4flaga.ru/sounds/sock.mp3">
+    sock</a> -
+    носок
+  <br>
+
+    744
+     - <a href="http://4flaga.ru/sounds/note.mp3">
+    note</a> -
+    заметка, отмечать
+  <br>
+
+    745
+     - <a href="http://4flaga.ru/sounds/season.mp3">
+    season</a> -
+    сезон; время года
+  <br>
+
+    746
+     - <a href="http://4flaga.ru/sounds/argument.mp3">
+    argument</a> -
+    спор
+  <br>
+
+    747
+     - <a href="http://4flaga.ru/sounds/listen.mp3">
+    listen</a> -
+    слушать
+  <br>
+
+    748
+     - <a href="http://4flaga.ru/sounds/responsibility.mp3">
+    responsibility</a> -
+    ответственность
+  <br>
+
+    749
+     - <a href="http://4flaga.ru/sounds/significant.mp3">
+    significant</a> -
+    значительный
+  <br>
+
+    750
+     - <a href="http://4flaga.ru/sounds/deal.mp3">
+    deal</a> -
+    некоторое количество; иметь дело
+  <br>
+
+    751
+     - <a href="http://4flaga.ru/sounds/prime.mp3">
+    prime</a> -
+    первичный
+  <br>
+
+    752
+     - <a href="http://4flaga.ru/sounds/economy.mp3">
+    economy</a> -
+    экономика
+  <br>
+
+    753
+     - <a href="http://4flaga.ru/sounds/finish.mp3">
+    finish</a> -
+    закончить
+  <br>
+
+    754
+     - <a href="http://4flaga.ru/sounds/duty.mp3">
+    duty</a> -
+    долг
+  <br>
+
+    755
+     - <a href="http://4flaga.ru/sounds/fight.mp3">
+    fight</a> -
+    бой, драка; сражаться
+  <br>
+
+    756
+     - <a href="http://4flaga.ru/sounds/train.mp3">
+    train</a> -
+    поезд;тренировать
+  <br>
+
+    757
+     - <a href="http://4flaga.ru/sounds/maintain.mp3">
+    maintain</a> -
+    обеспечивать
+  <br>
+
+    758
+     - <a href="http://4flaga.ru/sounds/attempt.mp3">
+    attempt</a> -
+    попытка
+  <br>
+
+    759
+     - <a href="http://4flaga.ru/sounds/leg.mp3">
+    leg</a> -
+    нога
+  <br>
+
+    760
+     - <a href="http://4flaga.ru/sounds/save.mp3">
+    save</a> -
+    беречь
+  <br>
+
+    761
+     - <a href="http://4flaga.ru/sounds/suddenly.mp3">
+    suddenly</a> -
+    вдруг
+  <br>
+
+    762
+     - <a href="http://4flaga.ru/sounds/brother.mp3">
+    brother</a> -
+    брат
+  <br>
+
+    763
+     - <a href="http://4flaga.ru/sounds/improve.mp3">
+    improve</a> -
+    улучшать
+  <br>
+
+    764
+     - <a href="http://4flaga.ru/sounds/avoid.mp3">
+    avoid</a> -
+    избегать
+  <br>
+
+    765
+     - <a href="http://4flaga.ru/sounds/teenager.mp3">
+    teenager</a> -
+    подросток
+  <br>
+
+    766
+     - <a href="http://4flaga.ru/sounds/wonder.mp3">
+    wonder</a> -
+    хотеть знать; удивление
+  <br>
+
+    767
+     - <a href="http://4flaga.ru/sounds/fun.mp3">
+    fun</a> -
+    забава
+  <br>
+
+    768
+     - <a href="http://4flaga.ru/sounds/title.mp3">
+    title</a> -
+    название
+  <br>
+
+    769
+     - <a href="http://4flaga.ru/sounds/post.mp3">
+    post</a> -
+    почта; должность
+  <br>
+
+    770
+     - <a href="http://4flaga.ru/sounds/hotel.mp3">
+    hotel</a> -
+    гостиница
+  <br>
+
+    771
+     - <a href="http://4flaga.ru/sounds/aspect.mp3">
+    aspect</a> -
+    сторона, аспект
+  <br>
+
+    772
+     - <a href="http://4flaga.ru/sounds/increase.mp3">
+    increase</a> -
+    увеличивать
+  <br>
+
+    773
+     - <a href="http://4flaga.ru/sounds/surname.mp3">
+    surname</a> -
+    фамилия
+  <br>
+  774 - <a href="http://4flaga.ru/sounds/industrial.mp3"> industrial</a> - промышленный<br>
+
+    775
+     - <a href="http://4flaga.ru/sounds/express.mp3">
+    express</a> -
+    выражать
+  <br>
+
+    776
+     - <a href="http://4flaga.ru/sounds/summer.mp3">
+    summer</a> -
+    лето
+  <br>
+
+    777
+     - <a href="http://4flaga.ru/sounds/determine.mp3">
+    determine</a> -
+    определять
+  <br>
+
+    778
+     - <a href="http://4flaga.ru/sounds/generally.mp3">
+    generally</a> -
+    в общем
+  <br>
+
+    779
+     - <a href="http://4flaga.ru/sounds/daughter.mp3">
+    daughter</a> -
+    дочь
+  <br>
+
+    780
+     - <a href="http://4flaga.ru/sounds/exist.mp3">
+    exist</a> -
+    существовать
+  <br>
+
+    781
+     - <a href="http://4flaga.ru/sounds/used_to.mp3">
+    used to</a> -
+    бывало
+  <br>
+
+    782
+     - <a href="http://4flaga.ru/sounds/share.mp3">
+    share</a> -
+    делить; акция
+  <br>
+
+    783
+     - <a href="http://4flaga.ru/sounds/baby.mp3">
+    baby</a> -
+    дитя
+  <br>
+
+    784
+     - <a href="http://4flaga.ru/sounds/nearly.mp3">
+    nearly</a> -
+    около
+  <br>
+
+    785
+     - <a href="http://4flaga.ru/sounds/smile.mp3">
+    smile</a> -
+    улыбка, улыбаться
+  <br>
+
+    786
+     - <a href="http://4flaga.ru/sounds/sorry.mp3">
+    sorry</a> -
+    извини
+  <br>
+
+    787
+     - <a href="http://4flaga.ru/sounds/sea.mp3">
+    sea</a> -
+    море
+  <br>
+
+    788
+     - <a href="http://4flaga.ru/sounds/skill.mp3">
+    skill</a> -
+    навык
+  <br>
+
+    789
+     - <a href="http://4flaga.ru/sounds/treat.mp3">
+    treat</a> -
+    лечить
+  <br>
+
+    790
+     - <a href="http://4flaga.ru/sounds/remove.mp3">
+    remove</a> -
+    удалить
+  <br>
+
+    791
+     - <a href="http://4flaga.ru/sounds/concern.mp3">
+    concern</a> -
+    забота, заботиться
+  <br>
+
+    792
+     - <a href="http://4flaga.ru/sounds/university.mp3">
+    university</a> -
+    университет
+  <br>
+
+    793
+     - <a href="http://4flaga.ru/sounds/left.mp3">
+    left</a> -
+    левый
+  <br>
+
+    794
+     - <a href="http://4flaga.ru/sounds/dead.mp3">
+    dead</a> -
+    мертвый
+  <br>
+
+    795
+     - <a href="http://4flaga.ru/sounds/discussion.mp3">
+    discussion</a> -
+    обсуждение
+  <br>
+
+    796
+     - <a href="http://4flaga.ru/sounds/specific.mp3">
+    specific</a> -
+    особый
+  <br>
+
+    797
+     - <a href="http://4flaga.ru/sounds/box.mp3">
+    box</a> -
+    ящик
+  <br>
+
+    798
+     - <a href="http://4flaga.ru/sounds/outside.mp3">
+    outside</a> -
+    вне
+  <br>
+
+    799
+     - <a href="http://4flaga.ru/sounds/total.mp3">
+    total</a> -
+    всеобщий
+  <br>
+
+    800
+     - <a href="http://4flaga.ru/sounds/bit.mp3">
+    bit</a> -
+    немного
+  <br>
+
+    801
+     - <a href="http://4flaga.ru/sounds/cost.mp3">
+    cost</a> -
+    стоимость, стоить
+  <br>
+
+    802
+     - <a href="http://4flaga.ru/sounds/girlfriend.mp3">
+    girlfriend</a> -
+    подружка
+  <br>
+
+    803
+     - <a href="http://4flaga.ru/sounds/market.mp3">
+    market</a> -
+    рынок, купить или продать на рынке
+  <br>
+
+    804
+     - <a href="http://4flaga.ru/sounds/occur.mp3">
+    occur</a> -
+    иметь место
+  <br>
+
+    805
+     - <a href="http://4flaga.ru/sounds/research.mp3">
+    research</a> -
+    исследование; исследовать
+  <br>
+
+    806
+     - <a href="http://4flaga.ru/sounds/wonderful.mp3">
+    wonderful</a> -
+    чудесный
+  <br>
+
+    807
+     - <a href="http://4flaga.ru/sounds/division.mp3">
+    division</a> -
+    подразделение
+  <br>
+
+    808
+     - <a href="http://4flaga.ru/sounds/throw.mp3">
+    throw</a> -
+    выбрасывать
+  <br>
+
+    809
+     - <a href="http://4flaga.ru/sounds/officer.mp3">
+    officer</a> -
+    служащий
+  <br>
+
+    810
+     - <a href="http://4flaga.ru/sounds/procedure.mp3">
+    procedure</a> -
+    процедура
+  <br>
+
+    811
+     - <a href="http://4flaga.ru/sounds/fill.mp3">
+    fill</a> -
+    вставлять
+  <br>
+
+    812
+     - <a href="http://4flaga.ru/sounds/king.mp3">
+    king</a> -
+    король
+  <br>
+
+    813
+     - <a href="http://4flaga.ru/sounds/assume.mp3">
+    assume</a> -
+    допускать
+  <br>
+
+    814
+     - <a href="http://4flaga.ru/sounds/image.mp3">
+    image</a> -
+    образ
+  <br>
+
+    815
+     - <a href="http://4flaga.ru/sounds/oil.mp3">
+    oil</a> -
+    нефть, масло
+  <br>
+
+    816
+     - <a href="http://4flaga.ru/sounds/obviously.mp3">
+    obviously</a> -
+    очевидно
+  <br>
+
+    817
+     - <a href="http://4flaga.ru/sounds/unless.mp3">
+    unless</a> -
+    до тех пор пока не
+  <br>
+
+    818
+     - <a href="http://4flaga.ru/sounds/appropriate.mp3">
+    appropriate</a> -
+    подходящий
+  <br>
+
+    819
+     - <a href="http://4flaga.ru/sounds/military.mp3">
+    military</a> -
+    военный
+  <br>
+
+    820
+     - <a href="http://4flaga.ru/sounds/proposal.mp3">
+    proposal</a> -
+    предложение
+  <br>
+
+    821
+     - <a href="http://4flaga.ru/sounds/mention.mp3">
+    mention</a> -
+    упоминать
+  <br>
+
+    822
+     - <a href="http://4flaga.ru/sounds/client.mp3">
+    client</a> -
+    клиент
+  <br>
+
+    823
+     - <a href="http://4flaga.ru/sounds/sector.mp3">
+    sector</a> -
+    сектор
+  <br>
+
+    824
+     - <a href="http://4flaga.ru/sounds/direction.mp3">
+    direction</a> -
+    направление
+  <br>
+
+    825
+     - <a href="http://4flaga.ru/sounds/admit.mp3">
+    admit</a> -
+    допускать
+  <br>
+
+    826
+     - <a href="http://4flaga.ru/sounds/basic.mp3">
+    basic</a> -
+    основной
+  <br>
+
+    827
+     - <a href="http://4flaga.ru/sounds/instance.mp3">
+    instance</a> -
+    пример
+  <br>
+
+    828
+     - <a href="http://4flaga.ru/sounds/sign.mp3">
+    sign</a> -
+    знак; подписывать
+  <br>
+
+    829
+     - <a href="http://4flaga.ru/sounds/original.mp3">
+    original</a> -
+    оригинальный
+  <br>
+
+    830
+     - <a href="http://4flaga.ru/sounds/successful.mp3">
+    successful</a> -
+    успешный
+  <br>
+
+    831
+     - <a href="http://4flaga.ru/sounds/reflect.mp3">
+    reflect</a> -
+    отражать
+  <br>
+
+    832
+     - <a href="http://4flaga.ru/sounds/aware.mp3">
+    aware</a> -
+    осознавать
+  <br>
+
+    833
+     - <a href="http://4flaga.ru/sounds/pardon.mp3">
+    pardon</a> -
+    извините
+  <br>
+
+    834
+     - <a href="http://4flaga.ru/sounds/measure.mp3">
+    measure</a> -
+    мера, измерять
+  <br>
+
+    835
+     - <a href="http://4flaga.ru/sounds/attitude.mp3">
+    attitude</a> -
+    отношение
+  <br>
+
+    836
+     - <a href="http://4flaga.ru/sounds/yourself.mp3">
+    yourself</a> -
+    (тебя) самого
+  <br>
+
+    837
+     - <a href="http://4flaga.ru/sounds/exactly.mp3">
+    exactly</a> -
+    точно
+  <br>
+
+    838
+     - <a href="http://4flaga.ru/sounds/commission.mp3">
+    commission</a> -
+    комиссия
+  <br>
+
+    839
+     - <a href="http://4flaga.ru/sounds/beyond.mp3">
+    beyond</a> -
+    за пределами
+  <br>
+
+    840
+     - <a href="http://4flaga.ru/sounds/seat.mp3">
+    seat</a> -
+    сидение
+  <br>
+
+    841
+     - <a href="http://4flaga.ru/sounds/president.mp3">
+    president</a> -
+    президент
+  <br>
+
+    842
+     - <a href="http://4flaga.ru/sounds/encourage.mp3">
+    encourage</a> -
+    воодушевлять
+  <br>
+
+    843
+     - <a href="http://4flaga.ru/sounds/addition.mp3">
+    addition</a> -
+    дополнение
+  <br>
+
+    844
+     - <a href="http://4flaga.ru/sounds/goal.mp3">
+    goal</a> -
+    цель
+  <br>
+
+    845
+     - <a href="http://4flaga.ru/sounds/miss.mp3">
+    miss</a> -
+    скучать
+  <br>
+
+    846
+     - <a href="http://4flaga.ru/sounds/popular.mp3">
+    popular</a> -
+    популярный
+  <br>
+
+    847
+     - <a href="http://4flaga.ru/sounds/affair.mp3">
+    affair</a> -
+    дело
+  <br>
+
+    848
+     - <a href="http://4flaga.ru/sounds/technique.mp3">
+    technique</a> -
+    техника
+  <br>
+
+    849
+     - <a href="http://4flaga.ru/sounds/respect.mp3">
+    respect</a> -
+    уважение; уважать
+  <br>
+
+    850
+     - <a href="http://4flaga.ru/sounds/drop.mp3">
+    drop</a> -
+    капля, капать
+  <br>
+
+    851
+     - <a href="http://4flaga.ru/sounds/professional.mp3">
+    professional</a> -
+    профессиональный; профессионал
+  <br>
+
+    852
+     - <a href="http://4flaga.ru/sounds/fly.mp3">
+    fly</a> -
+    летать; муха
+  <br>
+
+    853
+     - <a href="http://4flaga.ru/sounds/version.mp3">
+    version</a> -
+    версия
+  <br>
+
+    854
+     - <a href="http://4flaga.ru/sounds/maybe.mp3">
+    maybe</a> -
+    может быть
+  <br>
+
+    855
+     - <a href="http://4flaga.ru/sounds/ability.mp3">
+    ability</a> -
+    способность
+  <br>
+
+    856
+     - <a href="http://4flaga.ru/sounds/operate.mp3">
+    operate</a> -
+    действовать
+  <br>
+
+    857
+     - <a href="http://4flaga.ru/sounds/goods.mp3">
+    goods</a> -
+    товар
+  <br>
+
+    858
+     - <a href="http://4flaga.ru/sounds/campaign.mp3">
+    campaign</a> -
+    кампания
+  <br>
+
+    859
+     - <a href="http://4flaga.ru/sounds/heavy.mp3">
+    heavy</a> -
+    тяжелый
+  <br>
+
+    860
+     - <a href="http://4flaga.ru/sounds/advice.mp3">
+    advice</a> -
+    совет
+  <br>
+
+    861
+     - <a href="http://4flaga.ru/sounds/institution.mp3">
+    institution</a> -
+    институт
+  <br>
+
+    862
+     - <a href="http://4flaga.ru/sounds/discover.mp3">
+    discover</a> -
+    открывать
+  <br>
+
+    863
+     - <a href="http://4flaga.ru/sounds/surface.mp3">
+    surface</a> -
+    поверхность
+  <br>
+
+    864
+     - <a href="http://4flaga.ru/sounds/library.mp3">
+    library</a> -
+    библиотека
+  <br>
+
+    865
+     - <a href="http://4flaga.ru/sounds/pupil.mp3">
+    pupil</a> -
+    ученик
+  <br>
+
+    866
+     - <a href="http://4flaga.ru/sounds/refuse.mp3">
+    refuse</a> -
+    отказывать
+  <br>
+
+    867
+     - <a href="http://4flaga.ru/sounds/prevent.mp3">
+    prevent</a> -
+    предотвращать
+  <br>
+
+    868
+     - <a href="http://4flaga.ru/sounds/tasty.mp3">
+    tasty</a> -
+    вкусный
+  <br>
+
+    869
+     - <a href="http://4flaga.ru/sounds/dark.mp3">
+    dark</a> -
+    темный
+  <br>
+
+    870
+     - <a href="http://4flaga.ru/sounds/teach.mp3">
+    teach</a> -
+    учить (кого-либо)
+  <br>
+
+    871
+     - <a href="http://4flaga.ru/sounds/memory.mp3">
+    memory</a> -
+    память
+  <br>
+
+    872
+     - <a href="http://4flaga.ru/sounds/culture.mp3">
+    culture</a> -
+    культура
+  <br>
+
+    873
+     - <a href="http://4flaga.ru/sounds/blood.mp3">
+    blood</a> -
+    кровь
+  <br>
+
+    874
+     - <a href="http://4flaga.ru/sounds/majority.mp3">
+    majority</a> -
+    большинство
+  <br>
+
+    875
+     - <a href="http://4flaga.ru/sounds/insane.mp3">
+    insane</a> -
+    сумасшедший
+  <br>
+
+    876
+     - <a href="http://4flaga.ru/sounds/variety.mp3">
+    variety</a> -
+    разнообразие
+  <br>
+
+    877
+     - <a href="http://4flaga.ru/sounds/depend.mp3">
+    depend</a> -
+    зависеть
+  <br>
+
+    878
+     - <a href="http://4flaga.ru/sounds/bill.mp3">
+    bill</a> -
+    банкнота
+  <br>
+
+    879
+     - <a href="http://4flaga.ru/sounds/competition.mp3">
+    competition</a> -
+    соревнование
+  <br>
+
+    880
+     - <a href="http://4flaga.ru/sounds/ready.mp3">
+    ready</a> -
+    готовый
+  <br>
+
+    881
+     - <a href="http://4flaga.ru/sounds/access.mp3">
+    access</a> -
+    доступ
+  <br>
+
+    882
+     - <a href="http://4flaga.ru/sounds/hit.mp3">
+    hit</a> -
+    ударить, толчок; нагревать
+  <br>
+
+    883
+     - <a href="http://4flaga.ru/sounds/stone.mp3">
+    stone</a> -
+    камень
+  <br>
+
+    884
+     - <a href="http://4flaga.ru/sounds/useful.mp3">
+    useful</a> -
+    полезный
+  <br>
+
+    885
+     - <a href="http://4flaga.ru/sounds/extent.mp3">
+    extent</a> -
+    расширение
+  <br>
+
+    886
+     - <a href="http://4flaga.ru/sounds/employment.mp3">
+    employment</a> -
+    занятость
+  <br>
+
+    887
+     - <a href="http://4flaga.ru/sounds/regard.mp3">
+    regard</a> -
+    внимание; принимать во внимание
+  <br>
+
+    888
+     - <a href="http://4flaga.ru/sounds/apart.mp3">
+    apart</a> -
+    отдельно
+  <br>
+
+    889
+     - <a href="http://4flaga.ru/sounds/besides.mp3">
+    besides</a> -
+    кроме того
+  <br>
+
+    890
+     - <a href="http://4flaga.ru/sounds/shit.mp3">
+    shit</a> -
+    дерьмо
+  <br>
+
+    891
+     - <a href="http://4flaga.ru/sounds/text.mp3">
+    text</a> -
+    текст
+  <br>
+
+    892
+     - <a href="http://4flaga.ru/sounds/parliament.mp3">
+    parliament</a> -
+    парламент
+  <br>
+
+    893
+     - <a href="http://4flaga.ru/sounds/recent.mp3">
+    recent</a> -
+    недавний
+  <br>
+
+    894
+     - <a href="http://4flaga.ru/sounds/article.mp3">
+    article</a> -
+    статья
+  <br>
+
+    895
+     - <a href="http://4flaga.ru/sounds/object.mp3">
+    object</a> -
+    предмет, объект
+  <br>
+
+    896
+     - <a href="http://4flaga.ru/sounds/context.mp3">
+    context</a> -
+    контекст
+  <br>
+
+    897
+     - <a href="http://4flaga.ru/sounds/notice.mp3">
+    notice</a> -
+    извещение, заметить
+  <br>
+
+    898
+     - <a href="http://4flaga.ru/sounds/complete.mp3">
+    complete</a> -
+    полный; заполнить
+  <br>
+
+    899
+     - <a href="http://4flaga.ru/sounds/direct.mp3">
+    direct</a> -
+    прямой, управлять
+  <br>
+
+    900
+     - <a href="http://4flaga.ru/sounds/immediately.mp3">
+    immediately</a> -
+    немедленно
+  <br>
+
+    901
+     - <a href="http://4flaga.ru/sounds/collection.mp3">
+    collection</a> -
+    коллекция
+  <br>
+
+    902
+     - <a href="http://4flaga.ru/sounds/card.mp3">
+    card</a> -
+    карточка
+  <br>
+
+    903
+     - <a href="http://4flaga.ru/sounds/interesting.mp3">
+    interesting</a> -
+    интересный
+  <br>
+
+    904
+     - <a href="http://4flaga.ru/sounds/considerable.mp3">
+    considerable</a> -
+    значительный
+  <br>
+
+    905
+     - <a href="http://4flaga.ru/sounds/television.mp3">
+    television</a> -
+    телевидение
+  <br>
+
+    906
+     - <a href="http://4flaga.ru/sounds/agency.mp3">
+    agency</a> -
+    агентство
+  <br>
+
+    907
+     - <a href="http://4flaga.ru/sounds/except.mp3">
+    except</a> -
+    кроме
+  <br>
+
+    908
+     - <a href="http://4flaga.ru/sounds/physical.mp3">
+    physical</a> -
+    физический
+  <br>
+
+    909
+     - <a href="http://4flaga.ru/sounds/check.mp3">
+    check</a> -
+   проверять, проверка
+  <br>
+
+    910
+     - <a href="http://4flaga.ru/sounds/sun.mp3">
+    sun</a> -
+    солнце
+  <br>
+
+    911
+     - <a href="http://4flaga.ru/sounds/possibility.mp3">
+    possibility</a> -
+    возможность
+  <br>
+
+    912
+     - <a href="http://4flaga.ru/sounds/species.mp3">
+    species</a> -
+    вид
+  <br>
+
+    913
+     - <a href="http://4flaga.ru/sounds/speaker.mp3">
+    speaker</a> -
+    спикер, выступающий
+  <br>
+
+    914
+     - <a href="http://4flaga.ru/sounds/second.mp3">
+    second</a> -
+    секунда
+  <br>
+
+    915
+     - <a href="http://4flaga.ru/sounds/laugh.mp3">
+    laugh</a> -
+    смеяться
+  <br>
+
+    916
+     - <a href="http://4flaga.ru/sounds/weight.mp3">
+    weight</a> -
+    вес; авторитет
+  <br>
+
+    917
+     - <a href="http://4flaga.ru/sounds/responsible.mp3">
+    responsible</a> -
+    ответственный
+  <br>
+
+    918
+     - <a href="http://4flaga.ru/sounds/document.mp3">
+    document</a> -
+    документ
+  <br>
+
+    919
+     - <a href="http://4flaga.ru/sounds/solution.mp3">
+    solution</a> -
+    решение
+  <br>
+
+    920
+     - <a href="http://4flaga.ru/sounds/medical.mp3">
+    medical</a> -
+    медицинский
+  <br>
+
+    921
+     - <a href="http://4flaga.ru/sounds/hot.mp3">
+    hot</a> -
+    горячий, жаркий
+  <br>
+
+    922
+     - <a href="http://4flaga.ru/sounds/budget.mp3">
+    budget</a> -
+    бюджет
+  <br>
+
+    923
+     - <a href="http://4flaga.ru/sounds/river.mp3">
+    river</a> -
+    река
+  <br>
+
+    924
+     - <a href="http://4flaga.ru/sounds/fit.mp3">
+    fit</a> -
+    подходящий
+  <br>
+
+    925
+     - <a href="http://4flaga.ru/sounds/push.mp3">
+    push</a> -
+   толкать
+  <br>
+
+    926
+     - <a href="http://4flaga.ru/sounds/tomorrow.mp3">
+    tomorrow</a> -
+    завтра
+  <br>
+
+    927
+     - <a href="http://4flaga.ru/sounds/requirement.mp3">
+    requirement</a> -
+   требование
+  <br>
+
+    928
+     - <a href="http://4flaga.ru/sounds/cold.mp3">
+    cold</a> -
+    холодный; простуда
+  <br>
+
+    929
+     - <a href="http://4flaga.ru/sounds/opposition.mp3">
+    opposition</a> -
+    оппозиция
+  <br>
+
+    930
+     - <a href="http://4flaga.ru/sounds/opinion.mp3">
+    opinion</a> -
+    мнение
+  <br>
+
+    931
+     - <a href="http://4flaga.ru/sounds/drug.mp3">
+    drug</a> -
+   наркотик
+  <br>
+
+    932
+     - <a href="http://4flaga.ru/sounds/quarter.mp3">
+    quarter</a> -
+    четверть, квартал
+  <br>
+
+    933
+     - <a href="http://4flaga.ru/sounds/option.mp3">
+    option</a> -
+   опция, вариант
+  <br>
+
+    934
+     - <a href="http://4flaga.ru/sounds/worth.mp3">
+    worth</a> -
+    стоящий
+  <br>
+
+    935
+     - <a href="http://4flaga.ru/sounds/define.mp3">
+    define</a> -
+    определять
+  <br>
+
+    936
+     - <a href="http://4flaga.ru/sounds/influence.mp3">
+    influence</a> -
+    влияние, влиять
+  <br>
+
+    937
+     - <a href="http://4flaga.ru/sounds/occasion.mp3">
+    occasion</a> -
+    случай
+  <br>
+
+    938
+     - <a href="http://4flaga.ru/sounds/software.mp3">
+    software</a> -
+    программное обеспечение
+  <br>
+
+    939
+     - <a href="http://4flaga.ru/sounds/highly.mp3">
+    highly</a> -
+    высоко
+  <br>
+
+    940
+     - <a href="http://4flaga.ru/sounds/exchange.mp3">
+    exchange</a> -
+    обмен
+  <br>
+
+    941
+     - <a href="http://4flaga.ru/sounds/lack.mp3">
+    lack</a> -
+    отсутствие, недостаток; испытывать недостаток
+  <br>
+
+    942
+     - <a href="http://4flaga.ru/sounds/concept.mp3">
+    concept</a> -
+    понятие, концепция
+  <br>
+
+    943
+     - <a href="http://4flaga.ru/sounds/blue.mp3">
+    blue</a> -
+    синий
+  <br>
+
+    944
+     - <a href="http://4flaga.ru/sounds/star.mp3">
+    star</a> -
+    звезда; играть главную роль
+  <br>
+
+    945
+     - <a href="http://4flaga.ru/sounds/radio.mp3">
+    radio</a> -
+   радио
+  <br>
+
+    946
+     - <a href="http://4flaga.ru/sounds/arrangement.mp3">
+    arrangement</a> -
+    приведение в порядок
+  <br>
+
+    947
+     - <a href="http://4flaga.ru/sounds/examine.mp3">
+    examine</a> -
+   проверять
+  <br>
+
+    948
+     - <a href="http://4flaga.ru/sounds/bird.mp3">
+    bird</a> -
+    птица
+  <br>
+
+    949
+     - <a href="http://4flaga.ru/sounds/busy.mp3">
+    busy</a> -
+   занятый, многолюдный
+  <br>
+
+    950
+     - <a href="http://4flaga.ru/sounds/chair.mp3">
+    chair</a> -
+    кресло
+  <br>
+
+    951
+     - <a href="http://4flaga.ru/sounds/green.mp3">
+    green</a> -
+    зеленый
+  <br>
+
+    952
+     - <a href="http://4flaga.ru/sounds/band.mp3">
+    band</a> -
+    (музыкальная) группа
+  <br>
+
+    953
+     - <a href="http://4flaga.ru/sounds/sex.mp3">
+    sex</a> -
+   пол
+  <br>
+
+    954
+     - <a href="http://4flaga.ru/sounds/finger.mp3">
+    finger</a> -
+    палец
+  <br>
+
+    955
+     - <a href="http://4flaga.ru/sounds/independent.mp3">
+    independent</a> -
+    независимый
+  <br>
+
+    956
+     - <a href="http://4flaga.ru/sounds/equipment.mp3">
+    equipment</a> -
+    оборудование
+  <br>
+
+    957
+     - <a href="http://4flaga.ru/sounds/north.mp3">
+    north</a> -
+    север
+  <br>
+
+    958
+     - <a href="http://4flaga.ru/sounds/message.mp3">
+    message</a> -
+    послание
+  <br>
+
+    959
+     - <a href="http://4flaga.ru/sounds/afternoon.mp3">
+    afternoon</a> -
+    время после полудня
+  <br>
+
+    960
+     - <a href="http://4flaga.ru/sounds/fear.mp3">
+    fear</a> -
+    страх, бояться
+  <br>
+
+    961
+     - <a href="http://4flaga.ru/sounds/drink.mp3">
+    drink</a> -
+    пить; спиртной напиток
+  <br>
+
+    962
+     - <a href="http://4flaga.ru/sounds/fully.mp3">
+    fully</a> -
+    полностью
+  <br>
+
+    963
+     - <a href="http://4flaga.ru/sounds/race.mp3">
+    race</a> -
+    раса; гонка
+  <br>
+
+    964
+     - <a href="http://4flaga.ru/sounds/strategy.mp3">
+    strategy</a> -
+    стратегия
+  <br>
+
+    965
+     - <a href="http://4flaga.ru/sounds/extra.mp3">
+    extra</a> -
+    дополнительный
+  <br>
+
+    966
+     - <a href="http://4flaga.ru/sounds/scene.mp3">
+    scene</a> -
+    сцена
+  <br>
+
+    967
+     - <a href="http://4flaga.ru/sounds/slightly.mp3">
+    slightly</a> -
+    слегка
+  <br>
+
+    968
+     - <a href="http://4flaga.ru/sounds/kitchen.mp3">
+    kitchen</a> -
+    кухня
+  <br>
+
+    969
+     - <a href="http://4flaga.ru/sounds/arise.mp3">
+    arise</a> -
+    подниматься
+  <br>
+
+    970
+     - <a href="http://4flaga.ru/sounds/speech.mp3">
+    speech</a> -
+    речь
+  <br>
+
+    971
+     - <a href="http://4flaga.ru/sounds/network.mp3">
+    network</a> -
+    сеть
+  <br>
+
+    972
+     - <a href="http://4flaga.ru/sounds/tea.mp3">
+    tea</a> -
+    чай
+  <br>
+
+    973
+     - <a href="http://4flaga.ru/sounds/peace.mp3">
+    peace</a> -
+    мир
+  <br>
+
+    974
+     - <a href="http://4flaga.ru/sounds/failure.mp3">
+    failure</a> -
+    провал
+  <br>
+
+    975
+     - <a href="http://4flaga.ru/sounds/employee.mp3">
+    employee</a> -
+    работник
+  <br>
+
+    976
+     - <a href="http://4flaga.ru/sounds/ahead.mp3">
+    ahead</a> -
+    вперед
+  <br>
+
+    977
+     - <a href="http://4flaga.ru/sounds/scale.mp3">
+    scale</a> -
+    шкала
+  <br>
+
+    978
+     - <a href="http://4flaga.ru/sounds/attend.mp3">
+    attend</a> -
+    посещать
+  <br>
+
+    979
+     - <a href="http://4flaga.ru/sounds/hardly.mp3">
+    hardly</a> -
+   едва
+  <br>
+
+    980
+     - <a href="http://4flaga.ru/sounds/shoulder.mp3">
+    shoulder</a> -
+    плечо
+  <br>
+
+    981
+     - <a href="http://4flaga.ru/sounds/otherwise.mp3">
+    otherwise</a> -
+    по-другому
+  <br>
+
+    982
+     - <a href="http://4flaga.ru/sounds/railway.mp3">
+    railway</a> -
+    железная дорога
+  <br>
+
+    983
+     - <a href="http://4flaga.ru/sounds/supply.mp3">
+    supply</a> -
+    запас; снабжать
+  <br>
+
+    984
+     - <a href="http://4flaga.ru/sounds/owner.mp3">
+    owner</a> -
+    собственник
+  <br>
+
+    985
+     - <a href="http://4flaga.ru/sounds/associate.mp3">
+    associate</a> -
+   общаться
+  <br>
+
+    986
+     - <a href="http://4flaga.ru/sounds/corner.mp3">
+    corner</a> -
+   угол
+  <br>
+
+    987
+     - <a href="http://4flaga.ru/sounds/past.mp3">
+    past</a> -
+    прошлый
+  <br>
+
+    988
+     - <a href="http://4flaga.ru/sounds/match.mp3">
+    match</a> -
+    матч; спичка; соответствовать
+  <br>
+
+    989
+     - <a href="http://4flaga.ru/sounds/sport.mp3">
+    sport</a> -
+    спорт
+  <br>
+
+    990
+     - <a href="http://4flaga.ru/sounds/beautiful.mp3">
+    beautiful</a> -
+    красивый
+  <br>
+
+    991
+     - <a href="http://4flaga.ru/sounds/hang.mp3">
+    hang</a> -
+  висеть
+  <br>
+
+    992
+     - <a href="http://4flaga.ru/sounds/marriage.mp3">
+    marriage</a> -
+   свадьба
+  <br>
+
+    993
+     - <a href="http://4flaga.ru/sounds/civil.mp3">
+    civil</a> -
+   гражданский
+  <br>
+
+    994
+     - <a href="http://4flaga.ru/sounds/sentence.mp3">
+    sentence</a> -
+   предложение
+  <br>
+
+    995
+     - <a href="http://4flaga.ru/sounds/crime.mp3">
+    crime</a> -
+    преступление
+  <br>
+
+    996
+     - <a href="http://4flaga.ru/sounds/ball.mp3">
+    ball</a> -
+    мяч
+  <br>
+
+    997
+     - <a href="http://4flaga.ru/sounds/marry.mp3">
+    marry</a> -
+    жениться
+  <br>
+
+    998
+     - <a href="http://4flaga.ru/sounds/wind.mp3">
+    wind</a> -
+    ветер
+  <br>
+
+    999
+     - <a href="http://4flaga.ru/sounds/truth.mp3">
+    truth</a> -
+    правда
+  <br>
+
+    1000
+     - <a href="http://4flaga.ru/sounds/protect.mp3">
+    protect</a> -
+    защищать

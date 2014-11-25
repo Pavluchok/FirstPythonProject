@@ -1,0 +1,84 @@
+from tkinter import *
+from html.parser import HTMLParser
+import threading
+
+class textParser(HTMLParser):
+
+    parsingWords = []
+    startTag = ""
+    currentTag = ""
+    currentWords = {}
+
+    def handle_starttag(self, tag, attrs):
+        self.currentTag = tag
+        if tag == "br":
+            self.parsingWords.append(self.currentWords.copy())
+
+    def handle_endtag(self, tag):
+        if self.currentTag == tag:
+            self.currentTag = ""
+
+
+    def handle_data(self, data):
+        if self.currentTag == "a":
+            self.currentWords["eng"] = data.strip()
+        elif self.currentTag == "":
+            self.currentWords["rus"] = data.strip()
+
+
+
+
+
+class GUI:
+    firstLaunch = False
+
+    def __init__(self):
+        self.setupGUI()
+
+    def setupGUI(self):
+        self.root = Tk()
+        btn = Button(self.root,
+                text="Click me",
+                width=30, height=5,
+                bg="red",fg="black")
+        btn.bind("<Button-1>", self.Hello)
+        btn.pack()
+        self.timerFunc()
+        self.root.mainloop()
+
+    def Hello(self, event):
+        print("Tap to button")
+        self.root.withdraw()
+
+    def showGui(self):
+        try:
+            self.root.deiconify()
+        except Exception:
+            print(Exception)
+
+
+    def timerFunc(self):
+        print("main loop")
+        self.showGui()
+        threading.Timer(5.0, self.timerFunc).start()
+
+"""
+textFile = open("words.txt", "r")
+textForParse = textFile.read().replace("\n","").replace("-","")
+textFile.close()
+
+parser = textParser()
+parser.feed(textForParse)
+
+storeWords = str(parser.parsingWords)
+print(storeWords)
+parsedWords = open("Translated_words","w")
+parsedWords.write(storeWords)
+parsedWords.close()
+"""
+
+gui = GUI()
+
+
+threading.Thread(target = gui.setupGUI(),args=gui).start()
+#timerFunc()
