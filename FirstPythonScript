@@ -78,7 +78,8 @@ class GUI:
 
     def tapCheckButton(self, event):
         translatedWord = self.entryText.get().lower()
-        currentWord =  self._currentWord["rus"].split(';').split(",")[0].lower()
+        currentWord =  self._currentWord["rus"].split(';')[0].split(',')[0].lower()
+
         if translatedWord == currentWord:
             self.root.withdraw()
             self._errorLabel.config(bg = "white", text = "")
